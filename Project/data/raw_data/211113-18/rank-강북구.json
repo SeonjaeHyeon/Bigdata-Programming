@@ -1,0 +1,5427 @@
+{
+  "pagination": {
+    "per_page": 80,
+    "total_objects": 2342,
+    "current_page": 0,
+    "total_pages": 30
+  },
+  "restaurants": [
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 1,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.1874141,
+      "app_order": true,
+      "lng": 127.02176747893,
+      "list_pos": 1,
+      "open": true,
+      "id": 310102,
+      "estimated_delivery_time": "40~50\ubd84",
+      "review_count": 529,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "superlist",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20210428163756857657_26d773e6ea49b888554edd60e87bb4b0_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "minimum_pickup_minutes": 20,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": true,
+      "tags": [],
+      "representative_menus": "",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 39-55 1\uce35",
+      "lat": 37.6408479300091,
+      "end": "01:50:00",
+      "discount_until": null,
+      "categories": [
+        "\uace0\uae30\uad6c\uc774",
+        "\ud55c\uc2dd",
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\uc57c\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 16000,
+      "distance": 0.3568500328,
+      "franchise_name": null,
+      "except_cash": false,
+      "name": "\uc57c\ud55c\uacf1\ucc3d-\uac15\ubd81\uc218\uc720\uc810",
+      "phone": "050712967596",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 107,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/restaurant_logos/\uc57c\ud55c\uacf1\ucc3d-\uac15\ubd81\uc218\uc720\uc810_20190220_\uac00\ub9f9\ub85c\uace0\uc774\ubbf8\uc9c0\uc57d\uc815\uc11c_crop_200x200.jpg"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 1,
+      "adjusted_delivery_fee": 1500,
+      "is_available_delivery": true,
+      "new_rating": 0.5154911,
+      "app_order": true,
+      "lng": 127.020935701763,
+      "list_pos": 2,
+      "open": true,
+      "id": 440647,
+      "estimated_delivery_time": "67~77\ubd84",
+      "review_count": 2036,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 43,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 4000,
+            "discount_mov": 15000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20201216120033957217_dd11d10545eec80b94e73d9b10c31f0e_tn.jpg",
+      "reachable": true,
+      "additional_discount": 4000,
+      "new": false,
+      "minimum_pickup_minutes": 30,
+      "thumbnail_message": "",
+      "begin": "14:00:00",
+      "is_available_pickup": true,
+      "tags": [
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6389783513028,
+      "end": "00:30:00",
+      "discount_until": null,
+      "categories": [
+        "\uce58\ud0a8",
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 15000,
+      "distance": 0.40499066427,
+      "franchise_name": "\uc8fc\uc2dd\ud68c\uc0ac\ub098\ub3c4\ub78c\uc5d0\ud504\uc528 / \ud22c\uc874\uce58\ud0a8",
+      "except_cash": false,
+      "name": "3\uac00\uc9c0\ub9db\ud22c\uc874\uce58\ud0a8-\uc218\uc720\uc810",
+      "phone": "050352864670",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 2033,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "1,500\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ud22c\uc874\uce58\ud0a8_20160315_Franchise\uc774\ubbf8\uc9c0\uc57d\uc815\uc11c_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 29-40 1\uce35 \uc6b0\uce21"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 2,
+      "adjusted_delivery_fee": 1000,
+      "is_available_delivery": true,
+      "new_rating": 0.511634,
+      "app_order": true,
+      "lng": 127.026768047718,
+      "list_pos": 3,
+      "open": true,
+      "id": 369371,
+      "estimated_delivery_time": "55~65\ubd84",
+      "review_count": 1612,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 548,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 2000,
+            "discount_mov": 0
+          },
+          "pickup": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 2000,
+            "discount_mov": 15000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20200609142552546157_f0b60b578881144774d34ceb4d0785eb_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "minimum_pickup_minutes": 30,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": true,
+      "tags": [
+        "CESCO"
+      ],
+      "representative_menus": "",
+      "lat": 37.6408324588768,
+      "end": "03:30:00",
+      "discount_until": null,
+      "categories": [
+        "\ud55c\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\uace0\uae30\uad6c\uc774"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 15000,
+      "distance": 0.18189285943,
+      "franchise_name": "(\uc8fc)\ub180\ubd80 / \ucac4\uba74\uc8fc\ub294\uc0bc\uacb9\ubcf8\ub2a5",
+      "except_cash": false,
+      "name": "\ucac4\uba74\uc8fc\ub294\uc0bc\uacb9\ubcf8\ub2a5by\ub180\ubd80-\uc218\uc720\uc810",
+      "phone": "050718624251",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 1439,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "1,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ucac4\uba74\uc8fc\ub294\uc0bc\uacb9\ubcf8\ub2a5_20210722_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ubd81\uad6c \uc218\uc720\ub3d9 177-26 177-26 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 18000,
+      "section_pos": 3,
+      "adjusted_delivery_fee": 1000,
+      "is_available_delivery": true,
+      "new_rating": 0.4843361,
+      "app_order": true,
+      "lng": 127.032387262989,
+      "list_pos": 4,
+      "open": true,
+      "id": 497783,
+      "estimated_delivery_time": "42~52\ubd84",
+      "review_count": 1133,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 44,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 4000,
+            "discount_mov": 15000
+          },
+          "pickup": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 4000,
+            "discount_mov": 15000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20201216102359441572_d25e4b36dd2c7ce2f4ed144b7fa9131b_tn.jpg",
+      "reachable": true,
+      "additional_discount": 4000,
+      "new": false,
+      "minimum_pickup_minutes": 20,
+      "thumbnail_message": "",
+      "begin": "09:00:00",
+      "is_available_pickup": true,
+      "tags": [
+        "CESCO",
+        "relayo",
+        "excellent"
+      ],
+      "representative_menus": "",
+      "lat": 37.6372809785827,
+      "end": "03:45:00",
+      "discount_until": null,
+      "categories": [
+        "\ud53c\uc790\uc591\uc2dd",
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 15000,
+      "distance": 0.65893606213,
+      "franchise_name": "(\uc8fc)\ud53c\uc790\ud5e4\ube10 / \ud53c\uc790\ud5e4\ube10",
+      "except_cash": false,
+      "name": "\uae40\uc900\ud604\uc758\ud53c\uc790\ud5e4\ube10-\uac15\ubd81\uc810",
+      "phone": "050352933033",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 1048,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "\ubb34\ub8cc~1,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ud53c\uc790\ud5e4\ube10_20210423_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ubd81\uad6c \ubc88\ub3d9 460-45 460-45 1\uce35"
+    },
+    {
+      "phone_order": false,
+      "free_delivery_threshold": 0,
+      "section_pos": 4,
+      "adjusted_delivery_fee": 0,
+      "is_available_delivery": true,
+      "new_rating": 0.4460904,
+      "app_order": true,
+      "lng": 127.024198101975,
+      "list_pos": 5,
+      "open": true,
+      "id": 359433,
+      "estimated_delivery_time": "50~60\ubd84",
+      "review_count": 1228,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 75,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 3000,
+            "discount_mov": 15000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210609180343749586_6d333ac5370e4c03f407cd63b2bbf3c1_tn.jpg",
+      "reachable": true,
+      "additional_discount": 3000,
+      "new": false,
+      "minimum_pickup_minutes": 0,
+      "thumbnail_message": "",
+      "begin": "09:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "relayo",
+        "excellent"
+      ],
+      "representative_menus": "",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubc88\ub3d9 446-8 \uc0bc\uc131\ud654\uc7ac\ube4c\ub529 \uc0bc\uc131\ud654\uc7ac\ube4c\ub529 1\uce35",
+      "lat": 37.6361293146156,
+      "end": "23:59:00",
+      "discount_until": null,
+      "categories": [
+        "\ubc84\uac70",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 12000,
+      "distance": 0.39726607187,
+      "franchise_name": "(\uc8fc)\ube44\ucf00\uc774\uc54c / \ubc84\uac70\ud0b9",
+      "except_cash": false,
+      "name": "\ubc84\uac70\ud0b9-\uc218\uc720\uc5ed\uc810",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 224,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "\ubb34\ub8cc"
+      },
+      "logo_url": "/media/franchise_logos/\ubc84\uac70\ud0b9_20210609_Franchise_crop_200x200.jpg"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 5,
+      "adjusted_delivery_fee": 3000,
+      "is_available_delivery": true,
+      "new_rating": 0.4228953,
+      "app_order": true,
+      "lng": 127.031538150154,
+      "list_pos": 6,
+      "open": true,
+      "id": 58269,
+      "estimated_delivery_time": "55~65\ubd84",
+      "review_count": 4097,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 7,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 4000,
+            "discount_mov": 15000
+          },
+          "pickup": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 4000,
+            "discount_mov": 15000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20201221182259967766_ea8863c6bc7b22fa56f9f2f4ab382bb1_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "minimum_pickup_minutes": 20,
+      "thumbnail_message": "",
+      "begin": "10:00:00",
+      "is_available_pickup": true,
+      "tags": [
+        "relayo",
+        "excellent"
+      ],
+      "representative_menus": "",
+      "lat": 37.6365493818401,
+      "end": "04:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\uce58\ud0a8",
+        "\uc57c\uc2dd"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 17000,
+      "distance": 0.62973748085,
+      "franchise_name": "(\uc8fc)\ud61c\uc778\uc2dd\ud488 / \ub124\ub124\uce58\ud0a8",
+      "except_cash": false,
+      "name": "\ub124\ub124\uce58\ud0a8-\ubc88\ub3d9\uc810",
+      "phone": "050352563373",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 4056,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "3,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ub124\ub124\uce58\ud0a8_20200310_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ubd81\uad6c \ubc88\ub3d9 412-54 412-52 1\uce35 \uc88c\uce21"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 6,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.3769559,
+      "app_order": true,
+      "lng": 127.021310938083,
+      "list_pos": 7,
+      "open": true,
+      "id": 260275,
+      "estimated_delivery_time": "55~65\ubd84",
+      "review_count": 1411,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 21,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 3000,
+            "discount_mov": 17000
+          },
+          "pickup": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 3000,
+            "discount_mov": 17000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210430151146084217_64dc98abe53538ec0385e5f6c605a60e_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "minimum_pickup_minutes": 30,
+      "thumbnail_message": "",
+      "begin": "12:00:00",
+      "is_available_pickup": true,
+      "tags": [
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6400265248345,
+      "end": "00:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\uc57c\uc2dd",
+        "1\uc778\ubd84\uc8fc\ubb38",
+        "\uce58\ud0a8"
+      ],
+      "review_avg": 4.7,
+      "min_order_amount": 11000,
+      "distance": 0.37055226659,
+      "franchise_name": "\ud638\uc2dd\uc774\ub450\ub9c8\ub9ac\uce58\ud0a8 / \ud638\uc2dd\uc774\ub450\ub9c8\ub9ac\uce58\ud0a8",
+      "except_cash": false,
+      "name": "\ud638\uc2dd\uc774\ub450\ub9c8\ub9ac\uce58\ud0a8-\uad11\uc0b0\uc0ac\uac70\ub9ac\uc810",
+      "phone": "050712921023",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 6,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ud638\uc2dd\uc774\ub450\ub9c8\ub9ac\uce58\ud0a8_20180212_Franchise\uc774\ubbf8\uc9c0\uc57d\uc815\uc11c_crop_200x200.PNG",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 31-3 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 100000,
+      "section_pos": 7,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.3738109,
+      "app_order": true,
+      "lng": 127.020336081283,
+      "list_pos": 8,
+      "open": true,
+      "id": 435989,
+      "estimated_delivery_time": "47~57\ubd84",
+      "review_count": 1116,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 379,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 6000,
+            "discount_mov": 18800
+          },
+          "pickup": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 6000,
+            "discount_mov": 18800
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210907135553365328_005b0b30e6d7cf00336014679aea181c_tn.jpg",
+      "reachable": true,
+      "additional_discount": 6000,
+      "new": false,
+      "minimum_pickup_minutes": 30,
+      "thumbnail_message": "",
+      "begin": "10:00:00",
+      "is_available_pickup": true,
+      "tags": [
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6389275410734,
+      "end": "23:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\ucc1c\ud0d5",
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\ud55c\uc2dd"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 15800,
+      "distance": 0.4580254166,
+      "franchise_name": "\uc8fc\uc2dd\ud68c\uc0ac\uae30\uc601\uc5d0\ud504\uc564\ube44 / \ub450\ucc1c",
+      "except_cash": false,
+      "name": "\ub450\ub9c8\ub9ac\ucc1c\ub2ed\ub450\ucc1c-\uac15\ubd81\uc218\uc720\uc810",
+      "phone": "050352860016",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 775,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "\ubb34\ub8cc~2,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ub450\ucc1c_20191219_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 29-73 1\uce35 \uc6b0\uce21"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 8,
+      "adjusted_delivery_fee": 2500,
+      "is_available_delivery": true,
+      "new_rating": 0.3329799,
+      "app_order": true,
+      "lng": 127.0180755891,
+      "list_pos": 9,
+      "open": true,
+      "id": 291958,
+      "estimated_delivery_time": "55~65\ubd84",
+      "review_count": 2911,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 10,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 3000,
+            "discount_mov": 16000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210722133902784138_047561649216af5f8d8e14be8b4901c5_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "minimum_pickup_minutes": 0,
+      "thumbnail_message": "",
+      "begin": "15:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "CESCO",
+        "relayo"
+      ],
+      "representative_menus": "",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ubd81\uad6c \uc218\uc720\ub3d9 57-74 \uc218\uc720\ub9ac\ube4c\ub529 57-74 \uc218\uc720\ub9ac\ube4c\ub529 1\uce35",
+      "lat": 37.6301283066346,
+      "end": "00:00:00",
+      "discount_until": null,
+      "categories": [
+        "\uce58\ud0a8",
+        "\uc57c\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 16000,
+      "distance": 1.23434788253,
+      "franchise_name": "(\uc8fc)\uba55\uc2dc\uce74\ub098 / \uba55\uc2dc\uce74\ub098\uce58\ud0a8",
+      "except_cash": false,
+      "name": "\uba55\uc2dc\uce74\ub098-\ubbf8\uc544\uc810",
+      "phone": "050712950487",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 908,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,500\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\uba55\uc2dc\uce74\ub098_20201027_Franchise_crop_200x200.jpg"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 9,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.3046807,
+      "app_order": true,
+      "lng": 127.0243214,
+      "list_pos": 10,
+      "open": true,
+      "id": 37946,
+      "estimated_delivery_time": "65~75\ubd84",
+      "review_count": 1289,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 32,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 3000,
+            "discount_mov": 16000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210901150721452880_83db8af7ad34c4b52ae3841e7d8665a1_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "minimum_pickup_minutes": 0,
+      "thumbnail_message": "",
+      "begin": "12:40:00",
+      "is_available_pickup": false,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.6336256,
+      "end": "01:00:00",
+      "discount_until": null,
+      "categories": [
+        "\uc57c\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\uce58\ud0a8"
+      ],
+      "review_avg": 4.7,
+      "min_order_amount": 11000,
+      "distance": 0.6671768396500001,
+      "franchise_name": "\uc8fc\uc2dd\ud68c\uc0ac\ucc44\uc6c0\ud478\ub4dc / \ucf54\ub9ac\uc5d4\ud0c8\uae7b\uc78e\uce69\ud0a8",
+      "except_cash": false,
+      "name": "\ucf54\ub9ac\uc5d4\ud0c8\uae7b\uc78e\ub450\ub9c8\ub9ac\uce58\ud0a8-\ubbf8\uc544\uc218\uc720\uc810",
+      "phone": "050352599899",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 1192,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ucf54\ub9ac\uc5d4\ud0c8\uae7b\uc78e\ub450\ub9c8\ub9ac\uce58\ud0a8_20200701_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubbf8\uc544\ub3d9 162-13\ubc88\uc9c0 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 10,
+      "adjusted_delivery_fee": 1000,
+      "is_available_delivery": true,
+      "new_rating": 0.2921908,
+      "app_order": true,
+      "lng": 127.026768047718,
+      "list_pos": 11,
+      "open": true,
+      "id": 369363,
+      "estimated_delivery_time": "65~75\ubd84",
+      "review_count": 859,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 654,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 2000,
+            "discount_mov": 0
+          },
+          "pickup": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 2000,
+            "discount_mov": 15000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20200609141652474942_28f5298ba9060adba417159b6e431f6b_tn.jpg",
+      "reachable": true,
+      "additional_discount": 2000,
+      "new": false,
+      "minimum_pickup_minutes": 40,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": true,
+      "tags": [
+        "CESCO"
+      ],
+      "representative_menus": "",
+      "lat": 37.6408324588768,
+      "end": "03:30:00",
+      "discount_until": null,
+      "categories": [
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\ud55c\uc2dd",
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\ucc1c\ud0d5"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 19000,
+      "distance": 0.18189285943,
+      "franchise_name": "(\uc8fc)\ub180\ubd80 / \ud765\ubd80\ucc1c\ub2ed",
+      "except_cash": false,
+      "name": "\ud765\ubd80\ucc1c\ub2edby\ub180\ubd80-\uc218\uc720\uc810",
+      "phone": "050718624242",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 804,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "1,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ud765\ubd80\ucc1c\ub2ed_20210722_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ubd81\uad6c \uc218\uc720\ub3d9 177-26 177-26 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 11,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.2762744,
+      "app_order": true,
+      "lng": 127.016505169096,
+      "list_pos": 12,
+      "open": true,
+      "id": 276920,
+      "estimated_delivery_time": "50~60\ubd84",
+      "review_count": 1280,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 387,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 3000,
+            "discount_mov": 0
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210315173319584160_2886d4f8f727f52d9ccedccb27f07666_tn.jpg",
+      "reachable": true,
+      "additional_discount": 3000,
+      "new": false,
+      "minimum_pickup_minutes": 20,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": true,
+      "tags": [
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.648088469292,
+      "end": "00:00:00",
+      "discount_until": null,
+      "categories": [
+        "\uc57c\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\uce58\ud0a8",
+        "\ud14c\uc774\ud06c\uc544\uc6c3"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 16000,
+      "distance": 1.23462067487,
+      "franchise_name": "\uc5d0\uc2a4\ud2f0\uc528\ud504\ub79c\ucc28\uc774\uc800 / \uc21c\uc218\uce58\ud0a8",
+      "except_cash": false,
+      "name": "\uc21c\uc218\uce58\ud0a8-\uc218\uc720\uc810",
+      "phone": "050712937478",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 972,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\uc21c\uc218\uce58\ud0a8_20171024_Franchise\uc774\ubbf8\uc9c0\uc57d\uc815\uc11c_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 269-59 1\uce35"
+    },
+    {
+      "phone_order": false,
+      "free_delivery_threshold": 0,
+      "section_pos": 12,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.2372222,
+      "app_order": true,
+      "lng": 127.026335779001,
+      "list_pos": 13,
+      "open": true,
+      "id": 289878,
+      "estimated_delivery_time": "62~72\ubd84",
+      "review_count": 344,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 475,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 3000,
+            "discount_mov": 12000
+          },
+          "pickup": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 3000,
+            "discount_mov": 12000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20191224184656261511_b805645605e9421d51b14065d899f0e4_tn.jpg",
+      "reachable": true,
+      "additional_discount": 3000,
+      "new": false,
+      "minimum_pickup_minutes": 10,
+      "thumbnail_message": "",
+      "begin": "10:20:00",
+      "is_available_pickup": true,
+      "tags": [
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6399936915531,
+      "end": "23:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\uce74\ud398\ub514\uc800\ud2b8",
+        "\ud14c\uc774\ud06c\uc544\uc6c3"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 12000,
+      "distance": 0.08995565903000001,
+      "franchise_name": "(\uc8fc)\uc139\ud0c0\ub098\uc778\uc591\uc7ac\uc9c0\uc810 / \ud30c\ub9ac\ubc14\uac8c\ub728",
+      "except_cash": true,
+      "name": "\ud30c\ub9ac\ubc14\uac8c\ub728-\uac15\ubd81\uad6c\uccad\uc810",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 45,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ud30c\ub9ac\ubc14\uac8c\ub728_20180712_Franchise\uc774\ubbf8\uc9c0\uc57d\uc815\uc11c_crop_200x200_s6Zm07l.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 190-9"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 13,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.2253901,
+      "app_order": true,
+      "lng": 127.0406291,
+      "list_pos": 14,
+      "open": true,
+      "id": 9748,
+      "estimated_delivery_time": "39~49\ubd84",
+      "review_count": 1250,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 9,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 4000,
+            "discount_mov": 0
+          },
+          "pickup": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 4000,
+            "discount_mov": 15000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20200611175830432554_82ba9c9b60ed8964fc1531ec29a508b6_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "minimum_pickup_minutes": 30,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": true,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.6375474,
+      "end": "01:00:00",
+      "discount_until": null,
+      "categories": [
+        "\uc57c\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\uce58\ud0a8",
+        "\ud14c\uc774\ud06c\uc544\uc6c3"
+      ],
+      "review_avg": 4.5,
+      "min_order_amount": 14000,
+      "distance": 1.35274065353,
+      "franchise_name": "(\uc8fc)\ub18d\ud611\ubaa9\uc6b0\ucd0c / \ub610\ub798\uc624\ub798",
+      "except_cash": false,
+      "name": "\ub610\ub798\uc624\ub798-\ucc3d\ub3d9\uc810",
+      "phone": "050352579442",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 0,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ub610\ub798\uc624\ub798_20201224_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \ub3c4\ubd09\uad6c \ucc3d\ub3d9 455-5\ubc88\uc9c0 1\uce35"
+    },
+    {
+      "phone_order": false,
+      "free_delivery_threshold": 0,
+      "section_pos": 14,
+      "adjusted_delivery_fee": 2900,
+      "is_available_delivery": true,
+      "new_rating": 0.2151534,
+      "app_order": true,
+      "lng": 127.024792413644,
+      "list_pos": 15,
+      "open": true,
+      "id": 480766,
+      "estimated_delivery_time": "19\ubd84",
+      "review_count": 325,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 606,
+      "discounts": {
+        "delivery_fee": {
+          "funding": 0,
+          "campaign": 500
+        },
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 5000,
+            "discount_mov": 15000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210305104101104679_1898275811e801451c972481bfbd8b45_tn.jpg",
+      "reachable": true,
+      "additional_discount": 5000,
+      "new": false,
+      "minimum_pickup_minutes": 0,
+      "thumbnail_message": "",
+      "begin": "10:30:00",
+      "is_available_pickup": false,
+      "tags": [
+        "CESCO",
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6366964908263,
+      "end": "22:30:00",
+      "discount_until": null,
+      "categories": [
+        "\uce74\ud398\ub514\uc800\ud2b8",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 12000,
+      "distance": 0.32356809088,
+      "franchise_name": "\uc528\uc81c\uc774\ud478\ub4dc\ube4c(\uc8fc) / \ub69c\ub808\uc96c\ub974",
+      "except_cash": true,
+      "name": "\ub69c\ub808\uc96c\ub974-\uce74\ud398\uc218\uc720\uc5ed\uc810",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "OD",
+      "owner_reply_count": 10,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "discounted": "2,400\uc6d0",
+        "basic": "2,900\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ub69c\ub808\uc96c\ub974_20201224_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubc88\ub3d9 446-23 1~2\uce35"
+    },
+    {
+      "phone_order": false,
+      "free_delivery_threshold": 0,
+      "section_pos": 15,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.2135807,
+      "app_order": true,
+      "lng": 127.022956342304,
+      "list_pos": 16,
+      "open": true,
+      "id": 309491,
+      "estimated_delivery_time": "61~71\ubd84",
+      "review_count": 220,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 648,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 2000,
+            "discount_mov": 15000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20201216172414729435_53a051bc3383ad3aa1d4add2ad938c6f_tn.jpg",
+      "reachable": true,
+      "additional_discount": 2000,
+      "new": false,
+      "minimum_pickup_minutes": 0,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6349495996105,
+      "end": "22:00:00",
+      "discount_until": null,
+      "categories": [
+        "\uce74\ud398\ub514\uc800\ud2b8",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 4.7,
+      "min_order_amount": 12000,
+      "distance": 0.55817716547,
+      "franchise_name": "\ud22c\uc378\ud50c\ub808\uc774\uc2a4\uc8fc\uc2dd\ud68c\uc0ac / \ud22c\uc378\ud50c\ub808\uc774\uc2a4",
+      "except_cash": true,
+      "name": "\ud22c\uc378\ud50c\ub808\uc774\uc2a4-\uc218\uc720\uc0ac\uac70\ub9ac\uc810",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 220,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ud22c\uc378\ud50c\ub808\uc774\uc2a4_20200323_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 47-2 1,2\uce35"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 16,
+      "adjusted_delivery_fee": 3500,
+      "is_available_delivery": true,
+      "new_rating": 0.1942177,
+      "app_order": true,
+      "lng": 127.0245011,
+      "list_pos": 17,
+      "open": true,
+      "id": 370676,
+      "estimated_delivery_time": "45~55\ubd84",
+      "review_count": 1208,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 384,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 3000,
+            "discount_mov": 13500
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20201216121856246976_d6dd72ebd4e99dd68614ce3ed652d1f3_tn.jpg",
+      "reachable": true,
+      "additional_discount": 3000,
+      "new": false,
+      "minimum_pickup_minutes": 0,
+      "thumbnail_message": "",
+      "begin": "10:50:00",
+      "is_available_pickup": false,
+      "tags": [
+        "CESCO",
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6385401999512,
+      "end": "22:50:00",
+      "discount_until": null,
+      "categories": [
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\ubd84\uc2dd"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 14000,
+      "distance": 0.14187687235000002,
+      "franchise_name": "(\uc8fc)\uc8e0\uc2a4\ud478\ub4dc / \uc8e0\uc2a4\ub5a1\ubcf6\uc774",
+      "except_cash": false,
+      "name": "\uc8e0\uc2a4\ub5a1\ubcf6\uc774-\uc218\uc720\uc5ed\uc810",
+      "phone": "050718625524",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 1029,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "3,500\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\uc8e0\uc2a4\ub5a1\ubcf6\uc774_20201215_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 224-16 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 17,
+      "adjusted_delivery_fee": 0,
+      "is_available_delivery": true,
+      "new_rating": 0.1915409,
+      "app_order": true,
+      "lng": 127.02596776761,
+      "list_pos": 18,
+      "open": true,
+      "id": 376601,
+      "estimated_delivery_time": "43~53\ubd84",
+      "review_count": 339,
+      "discount_from": "2021-11-13T11:00:00",
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 41,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 4000,
+            "discount_mov": 0
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20201211181323617330_6f3535ec40b1fba1fc37be5a0c04d4bb_tn.jpg",
+      "reachable": true,
+      "additional_discount": 4000,
+      "new": false,
+      "minimum_pickup_minutes": 0,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "CESCO",
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6260507401557,
+      "end": "22:00:00",
+      "discount_until": "2021-11-13T21:59:59.999999",
+      "categories": [
+        "\ud53c\uc790\uc591\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 4.7,
+      "min_order_amount": 22000,
+      "distance": 1.50227961785,
+      "franchise_name": "\ud55c\uad6d\ud30c\ud30c\uc874\uc2a4(\uc8fc) / \ud30c\ud30c\uc874\uc2a4",
+      "except_cash": false,
+      "name": "\ud30c\ud30c\uc874\uc2a4\ud53c\uc790-\ubbf8\uc544\uc810",
+      "phone": "050718631260",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 0,
+      "discount_percent": 5,
+      "delivery_fee_to_display": {
+        "basic": "\ubb34\ub8cc"
+      },
+      "logo_url": "/media/franchise_logos/\ud30c\ud30c\uc874\uc2a4_20200625_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubbf8\uc544\ub3d9 304-1 4\uce35"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 18,
+      "adjusted_delivery_fee": 3000,
+      "is_available_delivery": true,
+      "new_rating": 0.190461,
+      "app_order": true,
+      "lng": 127.032979345583,
+      "list_pos": 19,
+      "open": true,
+      "id": 316364,
+      "estimated_delivery_time": "45~55\ubd84",
+      "review_count": 956,
+      "discount_from": "2021-11-13T13:00:00",
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 375,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 2000,
+            "discount_mov": 20000
+          },
+          "pickup": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 2000,
+            "discount_mov": 20000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20201211181002198512_1ed9be7cde758b52c73936356cfb042f_tn.jpg",
+      "reachable": true,
+      "additional_discount": 2000,
+      "new": false,
+      "minimum_pickup_minutes": 20,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": true,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.647313812002,
+      "end": "04:00:00",
+      "discount_until": "2021-11-13T20:59:59.999999",
+      "categories": [
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\ud55c\uc2dd",
+        "\uc57c\uc2dd",
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\uace0\uae30\uad6c\uc774"
+      ],
+      "review_avg": 4.7,
+      "min_order_amount": 14000,
+      "distance": 1.08654150414,
+      "franchise_name": "\uc8fc\uc2dd\ud68c\uc0ac\ubaa8\ub450\uc5ec\ub294\uc138\uc0c1 / \ubc30\ub2ec\uc0bc\uacb9\uc9c1\uad6c\uc0bc",
+      "except_cash": false,
+      "name": "\uc9c1\ud654\uc0bc\uacb9\uc9c1\uad6c\uc0bc-\uc30d\ubb38\uc810",
+      "phone": "050712973478",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 956,
+      "discount_percent": 5,
+      "delivery_fee_to_display": {
+        "basic": "3,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/Franchise_logos\ubc30\ub2ec\uc0bc\uacb9\uc9c1\uad6c\uc0bc_20210819_crop_200x200.jpg.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub3c4\ubd09\uad6c \uc30d\ubb38\ub3d9 96-47 96-47 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 19,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.187892,
+      "app_order": true,
+      "lng": 127.018565128537,
+      "list_pos": 20,
+      "open": true,
+      "id": 318128,
+      "estimated_delivery_time": "85~95\ubd84",
+      "review_count": 599,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 652,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 5000,
+            "discount_mov": 21900
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210908101636002485_8fbb9bd8825e90cfc24e4da808366799_tn.jpg",
+      "reachable": true,
+      "additional_discount": 5000,
+      "new": false,
+      "minimum_pickup_minutes": 0,
+      "thumbnail_message": "",
+      "begin": "11:30:00",
+      "is_available_pickup": false,
+      "tags": [
+        "CESCO",
+        "relayo"
+      ],
+      "representative_menus": "",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 729 \uc218\uc720\ud604\ub300\uc544\ud30c\ud2b8 104",
+      "lat": 37.6454329618391,
+      "end": "22:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ud53c\uc790\uc591\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 4.7,
+      "min_order_amount": 21900,
+      "distance": 0.89302821795,
+      "franchise_name": "(\uc8fc)\uccad\uc624\ub514\ud53c\ucf00\uc774 / \ub3c4\ubbf8\ub178\ud53c\uc790",
+      "except_cash": true,
+      "name": "\ub3c4\ubbf8\ub178\ud53c\uc790-\uc218\uc720\uc810",
+      "phone": "050712974038",
+      "reason": null,
+      "payment_methods": [
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 0,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ub3c4\ubbf8\ub178\ud53c\uc790_20190102_Franchise\uc774\ubbf8\uc9c0\uc57d\uc815\uc11c_crop_200x200.jpg"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 20,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.1793226,
+      "app_order": true,
+      "lng": 127.02410306751,
+      "list_pos": 21,
+      "open": true,
+      "id": 427401,
+      "estimated_delivery_time": "35~45\ubd84",
+      "review_count": 43,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 742,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 2000,
+            "discount_mov": 0
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20201216121820727897_7ecaee12b7b96c711a33472a55ea5aac_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "minimum_pickup_minutes": 0,
+      "thumbnail_message": "",
+      "begin": "16:30:00",
+      "is_available_pickup": false,
+      "tags": [
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6459217462832,
+      "end": "23:59:00",
+      "discount_until": null,
+      "categories": [
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\uce58\ud0a8"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 11900,
+      "distance": 0.71816267552,
+      "franchise_name": "\ub610\ubd09\uc774\uc5d0\ud504\uc564\uc5d0\uc2a4\uc8fc\uc2dd\ud68c\uc0ac / \ub610\ubd09\uc774\ud1b5\ub2ed",
+      "except_cash": false,
+      "name": "\ub610\ubd09\uc774\ud1b5\ub2ed-\uc11c\uc6b8\uad11\uc0b0\uc0ac\uac70\ub9ac\uc810",
+      "phone": "050352851424",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 10,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ub610\ubd09\uc774\ud1b5\ub2ed_20210128_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 725-14 1\uce35 101\ud638"
+    },
+    {
+      "phone_order": false,
+      "free_delivery_threshold": 0,
+      "section_pos": 21,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.1712254,
+      "app_order": true,
+      "lng": 127.026335779001,
+      "list_pos": 22,
+      "open": true,
+      "id": 461195,
+      "estimated_delivery_time": "47~57\ubd84",
+      "review_count": 1,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 1069,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 2000,
+            "discount_mov": 11000
+          },
+          "pickup": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 2000,
+            "discount_mov": 11000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20200618110432510737_df539b0d143725c751cc0fe2863350c8_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "minimum_pickup_minutes": 10,
+      "thumbnail_message": "",
+      "begin": "10:20:00",
+      "is_available_pickup": true,
+      "tags": [
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6399936915531,
+      "end": "23:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "1\uc778\ubd84\uc8fc\ubb38",
+        "\ud53c\uc790\uc591\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 5.0,
+      "min_order_amount": 11000,
+      "distance": 0.08995565903000001,
+      "franchise_name": "(\uc8fc)\uc139\ud0c0\ub098\uc778\uc591\uc7ac\uc9c0\uc810 / PBDELI",
+      "except_cash": true,
+      "name": "PB\ub378\ub9ac-\uac15\ubd81\uad6c\uccad\uc810",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 0,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/PBDELI_20200602_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 190-9"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 22,
+      "adjusted_delivery_fee": 2500,
+      "is_available_delivery": true,
+      "new_rating": 0.1661975,
+      "app_order": true,
+      "lng": 127.022079204201,
+      "list_pos": 23,
+      "open": true,
+      "id": 544376,
+      "estimated_delivery_time": "38~48\ubd84",
+      "review_count": 215,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 1200,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 3000,
+            "discount_mov": 14000
+          },
+          "pickup": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 3000,
+            "discount_mov": 14000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210113183058604180_b0d241df252d57d98e2349164f936480_tn.jpg",
+      "reachable": true,
+      "additional_discount": 3000,
+      "new": false,
+      "minimum_pickup_minutes": 20,
+      "thumbnail_message": "",
+      "begin": "11:30:00",
+      "is_available_pickup": true,
+      "tags": [
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6335666344585,
+      "end": "00:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\ud55c\uc2dd",
+        "\ubd84\uc2dd"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 12000,
+      "distance": 0.73005374686,
+      "franchise_name": "\uc8fc\uc2dd\ud68c\uc0ac\uae30\uc601\uc5d0\ud504\uc564\ube44 / \ub5a1\ubcf6\uc774\ucc38\uc798\ud558\ub294\uc9d1",
+      "except_cash": false,
+      "name": "\ub5a1\ucc38\ub5a1\ubcf6\uc774\ucc38\uc798\ud558\ub294\uc9d1-\uac15\ubd81\uc218\uc720\uc810",
+      "phone": "050352981541",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 209,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,500\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ub5a1\ubcf6\uc774\ucc38\uc798\ud558\ub294\uc9d1_20210511_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ubd81\uad6c \uc218\uc720\ub3d9 51-2 51-2 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 23,
+      "adjusted_delivery_fee": 0,
+      "is_available_delivery": true,
+      "new_rating": 0.1604099,
+      "app_order": true,
+      "lng": 127.036036408783,
+      "list_pos": 24,
+      "open": true,
+      "id": 497157,
+      "estimated_delivery_time": "25~35\ubd84",
+      "review_count": 107,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 85,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 6000,
+            "discount_mov": 19900
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210803135635842339_a989b0b91a473801e2db0f91391a3e87_tn.jpg",
+      "reachable": true,
+      "additional_discount": 6000,
+      "new": false,
+      "minimum_pickup_minutes": 0,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "CESCO",
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.634651525604,
+      "end": "03:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ud53c\uc790\uc591\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 4.7,
+      "min_order_amount": 19900,
+      "distance": 1.07790452321,
+      "franchise_name": "\ud55c\uad6d\ud53c\uc790\ud5db\uc720\ud55c\ud68c\uc0ac / \ud53c\uc790\ud5db",
+      "except_cash": false,
+      "name": "\ud53c\uc790\ud5db-\ubc88\ub3d9\uc810",
+      "phone": "050352936176",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 69,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "\ubb34\ub8cc"
+      },
+      "logo_url": "/media/franchise_logos/\ud53c\uc790\ud5db_20170612_Franchise\uc774\ubbf8\uc9c0\uc57d\uc815\uc11c_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubc88\ub3d9 761 \uc13c\ud2b8\ub85c\ud790 1\uce35107\ud638"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 24,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.1526875,
+      "app_order": true,
+      "lng": 127.0255875,
+      "list_pos": 25,
+      "open": true,
+      "id": 2613,
+      "estimated_delivery_time": "25~35\ubd84",
+      "review_count": 431,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 28,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 3000,
+            "discount_mov": 0
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20200408102755524276_d948de5f76247ad7a4310389d32a94ac_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "minimum_pickup_minutes": 10,
+      "thumbnail_message": "",
+      "begin": "11:30:00",
+      "is_available_pickup": true,
+      "tags": [
+        "CESCO"
+      ],
+      "representative_menus": "",
+      "lat": 37.6410701999515,
+      "end": "22:30:00",
+      "discount_until": null,
+      "categories": [
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\uc871\ubc1c\ubcf4\uc308",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\ud55c\uc2dd"
+      ],
+      "review_avg": 4.5,
+      "min_order_amount": 20000,
+      "distance": 0.16871268315000001,
+      "franchise_name": "(\uc8fc)\uc6d0\uc564\uc6d0 / \uc6d0\ud560\uba38\ub2c8\ubcf4\uc308",
+      "except_cash": false,
+      "name": "\uc6d0\ud560\uba38\ub2c8\ubcf4\uc308-\uc218\uc720\uc5ed\uc810",
+      "phone": "050352566003",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 208,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\uc6d0\ud560\uba38\ub2c8\ubcf4\uc30802_20150716_Franchise\uc774\ubbf8\uc9c0\uc57d\uc815\uc11c_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 177-17"
+    },
+    {
+      "phone_order": false,
+      "free_delivery_threshold": 0,
+      "section_pos": 25,
+      "adjusted_delivery_fee": 2900,
+      "is_available_delivery": true,
+      "new_rating": 0.1503796,
+      "app_order": true,
+      "lng": 127.037829000634,
+      "list_pos": 26,
+      "open": true,
+      "id": 309823,
+      "estimated_delivery_time": "31\ubd84",
+      "review_count": 868,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 301,
+      "discounts": {
+        "delivery_fee": {
+          "funding": 0,
+          "campaign": 500
+        },
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 3000,
+            "discount_mov": 16000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20201209174451671994_270baa1a9c7c2ed7e428c255658bbd45_tn.jpg",
+      "reachable": true,
+      "additional_discount": 3000,
+      "new": false,
+      "minimum_pickup_minutes": 0,
+      "thumbnail_message": "",
+      "begin": "17:52:00",
+      "is_available_pickup": false,
+      "tags": [
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6374235622257,
+      "end": "23:00:00",
+      "discount_until": null,
+      "categories": [
+        "\uce58\ud0a8",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 16000,
+      "distance": 1.11316329208,
+      "franchise_name": "\uc8fc\uc2dd\ud68c\uc0ac\ud55c\uc6b8 / \ub3c8\uce58\ud0a8",
+      "except_cash": true,
+      "name": "\ub3c8\uce58\ud0a8-\ucc3d\ub3d9\uc810",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "OD",
+      "owner_reply_count": 225,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "discounted": "2,400\uc6d0",
+        "basic": "2,900\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/franchise_logos\ub3c8\ud53c\uc790_20211111_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \ub3c4\ubd09\uad6c \ucc3d\ub3d9 552-22 1\uce35"
+    },
+    {
+      "phone_order": false,
+      "free_delivery_threshold": 0,
+      "section_pos": 26,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.1333002,
+      "app_order": true,
+      "lng": 127.022657858783,
+      "list_pos": 27,
+      "open": true,
+      "id": 1003229,
+      "estimated_delivery_time": "37~47\ubd84",
+      "review_count": 67,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 135,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 3000,
+            "discount_mov": 15000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20201216115755478231_3fed9e0f3f14c419d8fe0b85646e8967_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "minimum_pickup_minutes": 1,
+      "thumbnail_message": "",
+      "begin": "10:30:00",
+      "is_available_pickup": true,
+      "tags": [
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6370561325381,
+      "end": "02:30:00",
+      "discount_until": null,
+      "categories": [
+        "\uce58\ud0a8",
+        "\uc57c\uc2dd",
+        "\ubd84\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\ud14c\uc774\ud06c\uc544\uc6c3"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 15000,
+      "distance": 0.37263571521,
+      "franchise_name": "(\uc8fc)\uc704\ub4dc\uc778\ud478\ub4dc / \uac78\uc791\ub5a1\ubcf6\uc774",
+      "except_cash": false,
+      "name": "\uac78\uc791\ub5a1\ubcf6\uc774\uce58\ud0a8-\uc218\uc720\uc810",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 24,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\uac78\uc791\ub5a1\ubcf6\uc774\uce58\ud0a8_20201208_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ubd81\uad6c \uc218\uc720\ub3d9 2-39 \uacbd\ub2f4\ube4c\ub529 1\uce35 \uc77c\ubd80"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 27,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.1266565,
+      "app_order": true,
+      "lng": 127.028543885159,
+      "list_pos": 28,
+      "open": true,
+      "id": 501842,
+      "estimated_delivery_time": "37~47\ubd84",
+      "review_count": 147,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 80,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 7000,
+            "discount_mov": 19900
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20200319134444642414_4f486eaab1f5064627eaf6a518c11907_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "minimum_pickup_minutes": 0,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "CESCO",
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6352458413705,
+      "end": "22:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\ud53c\uc790\uc591\uc2dd"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 19900,
+      "distance": 0.5500609720899999,
+      "franchise_name": "[Brand]\ubbf8\uc2a4\ud130\ud53c\uc790",
+      "except_cash": false,
+      "name": "\ubbf8\uc2a4\ud130\ud53c\uc790-\uc218\uc720\uc810",
+      "phone": "050352937429",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 147,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ubbf8\uc2a4\ud130\ud53c\uc790_20200319_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubc88\ub3d9 411-8 \ud574\uc194\ube4c\ub529 1\uce35 102\ud638"
+    },
+    {
+      "phone_order": false,
+      "free_delivery_threshold": 0,
+      "section_pos": 28,
+      "adjusted_delivery_fee": 2500,
+      "is_available_delivery": true,
+      "new_rating": 0.1139305,
+      "app_order": true,
+      "lng": 127.017747034382,
+      "list_pos": 29,
+      "open": true,
+      "id": 513882,
+      "estimated_delivery_time": "61~71\ubd84",
+      "review_count": 283,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 703,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 2000,
+            "discount_mov": 0
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20201211181551452952_488c34300f8bc84d3ca797f85fd30733_tn.jpg",
+      "reachable": true,
+      "additional_discount": 2000,
+      "new": false,
+      "minimum_pickup_minutes": 0,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6255182224598,
+      "end": "21:30:00",
+      "discount_until": null,
+      "categories": [
+        "\ud53c\uc790\uc591\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 4.7,
+      "min_order_amount": 20000,
+      "distance": 1.7028443045900001,
+      "franchise_name": "(\uc720)\uc544\uc6c3\ubc31\uc2a4\ud14c\uc774\ud06c\ud558\uc6b0\uc2a4\ucf54\ub9ac\uc544 / \uc544\uc6c3\ubc31\uc2a4\ud14c\uc774\ud06c\ud558\uc6b0\uc2a4",
+      "except_cash": true,
+      "name": "\uc544\uc6c3\ubc31-\ubbf8\uc544\uc0bc\uc591\uc810",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 281,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,500\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\uc544\uc6c3\ubc31\uc2a4\ud14c\uc774\ud06c\ud558\uc6b0\uc2a4_20190905_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubbf8\uc544\ub3d9 1359 \ub86f\ub370\ub9c8\ud2b8 \uc0bc\uc591\uc810 2\uce35"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 29,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.1138885,
+      "app_order": true,
+      "lng": 127.0255875,
+      "list_pos": 30,
+      "open": true,
+      "id": 321667,
+      "estimated_delivery_time": "35~45\ubd84",
+      "review_count": 41,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 65,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 2000,
+            "discount_mov": 0
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20200408102705624620_e6ffee9b216ace0149f53d75cb84bc90_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "minimum_pickup_minutes": 10,
+      "thumbnail_message": "",
+      "begin": "11:30:00",
+      "is_available_pickup": true,
+      "tags": [
+        "CESCO"
+      ],
+      "representative_menus": "",
+      "lat": 37.6410701999515,
+      "end": "22:30:00",
+      "discount_until": null,
+      "categories": [
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\ud55c\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 4.7,
+      "min_order_amount": 20000,
+      "distance": 0.16871268315000001,
+      "franchise_name": "(\uc8fc)\uc6d0\uc564\uc6d0 / \ubc15\uac00\ubd80\ub300",
+      "except_cash": false,
+      "name": "\ubc15\uac00\ubd80\ub300-\uc218\uc720\uc5ed\uc810",
+      "phone": "050712978453",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 19,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ubc15\uac00\ubd80\ub300_20200710_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 177-17"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 30,
+      "adjusted_delivery_fee": 4000,
+      "is_available_delivery": true,
+      "new_rating": 0.1104531,
+      "app_order": true,
+      "lng": 127.026455558424,
+      "list_pos": 31,
+      "open": true,
+      "id": 278549,
+      "estimated_delivery_time": "55~65\ubd84",
+      "review_count": 440,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 88,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 5000,
+            "discount_mov": 0
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20181004182538819868_c7818a73135b784c9ab8b13d29c53d37_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "minimum_pickup_minutes": 30,
+      "thumbnail_message": "",
+      "begin": "09:00:00",
+      "is_available_pickup": true,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.6223263603321,
+      "end": "08:00:00",
+      "discount_until": null,
+      "categories": [
+        "\uc57c\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\uce58\ud0a8",
+        "\ud14c\uc774\ud06c\uc544\uc6c3"
+      ],
+      "review_avg": 4.6,
+      "min_order_amount": 15000,
+      "distance": 1.91772763514,
+      "franchise_name": "(\uc8fc)\ub514\ub514\uc5d0\ud504\uc5d4\ube44 / \ub514\ub514\uce58\ud0a8",
+      "except_cash": false,
+      "name": "3\uac00\uc9c0\ub9db\ub514\ub514\uce58\ud0a8-\ubbf8\uc544\uc810",
+      "phone": "050712939574",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 14,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "4,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ub514\ub514\uce58\ud0a8_20201022_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubbf8\uc544\ub3d9 316-41 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 31,
+      "adjusted_delivery_fee": 2500,
+      "is_available_delivery": true,
+      "new_rating": 0.1014214,
+      "app_order": true,
+      "lng": 127.0344933,
+      "list_pos": 32,
+      "open": true,
+      "id": 317820,
+      "estimated_delivery_time": "45~55\ubd84",
+      "review_count": 331,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 740,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 5000,
+            "discount_mov": 0
+          },
+          "pickup": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 5000,
+            "discount_mov": 15000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210303135134248085_0c2552425f6a990ceeb2945006d41c77_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "minimum_pickup_minutes": 20,
+      "thumbnail_message": "",
+      "begin": "16:00:00",
+      "is_available_pickup": true,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.6329512999504,
+      "end": "00:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\uce58\ud0a8",
+        "1\uc778\ubd84\uc8fc\ubb38"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 11000,
+      "distance": 1.08148082696,
+      "franchise_name": "\uc8fc\uc2dd\ud68c\uc0ac\ucc38\ubc14\ub978 / \ubd80\uc5b4\uce58\ud0a8",
+      "except_cash": false,
+      "name": "\ubd80\uc5b4\uce58\ud0a8-\ubc88\ub3d9\uc810",
+      "phone": "050712974914",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 99,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,500\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ubd80\uc5b4\uce58\ud0a8_20201006_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubc88\ub3d9 510-35 \ucda9\uc2e0\ube4c\ub529 1\uce35 6\ud638"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 50000,
+      "section_pos": 32,
+      "adjusted_delivery_fee": 3500,
+      "is_available_delivery": true,
+      "new_rating": 0.0928219,
+      "app_order": true,
+      "lng": 127.025046232332,
+      "list_pos": 33,
+      "open": true,
+      "id": 476484,
+      "estimated_delivery_time": "27~37\ubd84",
+      "review_count": 176,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 11,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 2000,
+            "discount_mov": 0
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210708151455503770_7af4f397aee2f1cd161287c8a2e9503a_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "minimum_pickup_minutes": 20,
+      "thumbnail_message": "",
+      "begin": "09:30:00",
+      "is_available_pickup": true,
+      "tags": [
+        "CESCO",
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6381852305726,
+      "end": "21:30:00",
+      "discount_until": null,
+      "categories": [
+        "\uce58\ud0a8",
+        "1\uc778\ubd84\uc8fc\ubb38",
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\ubc84\uac70"
+      ],
+      "review_avg": 4.5,
+      "min_order_amount": 10000,
+      "distance": 0.15701342360999998,
+      "franchise_name": "\uc8fc\uc2dd\ud68c\uc0ac\ub9d8\uc2a4\ud130\uce58\uc564\ucef4\ud37c\ub2c8 / \ub9d8\uc2a4\ud130\uce58",
+      "except_cash": false,
+      "name": "\ub9d8\uc2a4\ud130\uce58-\uc218\uc720\uc5ed\uc810",
+      "phone": "050352909834",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 0,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "\ubb34\ub8cc~3,500\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ub9d8\uc2a4\ud130\uce58_20201116_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 229-35 2\uce35"
+    },
+    {
+      "phone_order": false,
+      "free_delivery_threshold": 0,
+      "section_pos": 33,
+      "adjusted_delivery_fee": 3000,
+      "is_available_delivery": true,
+      "new_rating": 0.0790651,
+      "app_order": true,
+      "lng": 127.022747014943,
+      "list_pos": 34,
+      "open": true,
+      "id": 498964,
+      "estimated_delivery_time": "70~80\ubd84",
+      "review_count": 17,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "grocery",
+      "franchise_id": 756,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 4000,
+            "discount_mov": 20000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20201006163708895266_7f1c455a153e66b75a9b22b9ac132d75_tn.jpg",
+      "reachable": true,
+      "additional_discount": 4000,
+      "new": false,
+      "minimum_pickup_minutes": 0,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6406640045963,
+      "end": "23:00:00",
+      "discount_until": null,
+      "categories": [
+        "\uce74\ud398\ub514\uc800\ud2b8",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\ud3b8\uc758\uc810"
+      ],
+      "review_avg": 5.0,
+      "min_order_amount": 10000,
+      "distance": 0.27014361843,
+      "franchise_name": "\ud55c\uad6d\ubbf8\ub2c8\uc2a4\ud1b1(\uc8fc) / \ubbf8\ub2c8\uc2a4\ud1b1",
+      "except_cash": true,
+      "name": "\ubbf8\ub2c8\uc2a4\ud1b1-\uc218\uc720\ub178\ud574\uc810",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 17,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "3,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ubbf8\ub2c8\uc2a4\ud1b1_20190711_Franchise_crop_200x200.png",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 220-29 1\uce35"
+    },
+    {
+      "phone_order": false,
+      "free_delivery_threshold": 0,
+      "section_pos": 34,
+      "adjusted_delivery_fee": 3000,
+      "is_available_delivery": true,
+      "new_rating": 0.073526,
+      "app_order": true,
+      "lng": 127.024755231206,
+      "list_pos": 35,
+      "open": true,
+      "id": 350974,
+      "estimated_delivery_time": "45~55\ubd84",
+      "review_count": 18,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "grocery",
+      "franchise_id": 682,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 3000,
+            "discount_mov": 20000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20190724190643197177_bf9703916c8d6d472b0f5460c3285315_tn.jpg",
+      "reachable": true,
+      "additional_discount": 3000,
+      "new": false,
+      "minimum_pickup_minutes": 0,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6386758491095,
+      "end": "23:00:00",
+      "discount_until": null,
+      "categories": [
+        "\uce74\ud398\ub514\uc800\ud2b8",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\ud3b8\uc758\uc810"
+      ],
+      "review_avg": 4.7,
+      "min_order_amount": 10000,
+      "distance": 0.1166440311,
+      "franchise_name": "(\uc8fc)\ube44\uc9c0\uc5d0\ud504\ub9ac\ud14c\uc77c / CU",
+      "except_cash": true,
+      "name": "CU-\uc218\uc720\uc911\uc559\uc810",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 0,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "3,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/CU_20190322_Franchise\uc774\ubbf8\uc9c0\uc57d\uc815\uc11c_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 192-4"
+    },
+    {
+      "phone_order": false,
+      "free_delivery_threshold": 0,
+      "section_pos": 35,
+      "adjusted_delivery_fee": 3000,
+      "is_available_delivery": true,
+      "new_rating": 0.0676085,
+      "app_order": true,
+      "lng": 127.027637159707,
+      "list_pos": 36,
+      "open": true,
+      "id": 507372,
+      "estimated_delivery_time": "40~50\ubd84",
+      "review_count": 9,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "grocery",
+      "franchise_id": 970,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 5000,
+            "discount_mov": 20000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20200318155630676175_026d8e9a3cfb1f08765589cbc5eb77fe_tn.jpg",
+      "reachable": true,
+      "additional_discount": 5000,
+      "new": false,
+      "minimum_pickup_minutes": 0,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6385835419687,
+      "end": "23:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\uce74\ud398\ub514\uc800\ud2b8",
+        "\ud3b8\uc758\uc810"
+      ],
+      "review_avg": 5.0,
+      "min_order_amount": 10000,
+      "distance": 0.21876292164,
+      "franchise_name": "(\uc8fc)\ucf54\ub9ac\uc544\uc138\ube10 / \uc138\ube10\uc77c\ub808\ube10",
+      "except_cash": true,
+      "name": "\uc138\ube10\uc77c\ub808\ube10-\uc218\uc720\uc601\uc900\uc810",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 0,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "3,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\uc138\ube10\uc77c\ub808\ube10_20200214_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubc88\ub3d9 417-18 \uadfc\ud654\ube4c\ub529 1\uce35"
+    },
+    {
+      "phone_order": false,
+      "free_delivery_threshold": 0,
+      "section_pos": 36,
+      "adjusted_delivery_fee": 3400,
+      "is_available_delivery": true,
+      "new_rating": 0.0608532,
+      "app_order": true,
+      "lng": 127.013116170466,
+      "list_pos": 37,
+      "open": true,
+      "id": 455764,
+      "estimated_delivery_time": "26\ubd84",
+      "review_count": 69,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 45,
+      "discounts": {
+        "delivery_fee": {
+          "funding": 0,
+          "campaign": 500
+        },
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 7000,
+            "discount_mov": 0
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210621174505089655_0450521a734ed63299be915bde7081fa_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "minimum_pickup_minutes": 0,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": false,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.6502132240551,
+      "end": "23:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\ud53c\uc790\uc591\uc2dd"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 18000,
+      "distance": 1.6089995724600001,
+      "franchise_name": "(\uc8fc)\ucf00\uc774\ud504\ub80c\uc988 / \uac15\uc815\uad6c\uc758\ud53c\uc790\uc0dd\uac01",
+      "except_cash": true,
+      "name": "\uac15\uc815\uad6c\uc758\ud53c\uc790\uc0dd\uac01-\ub355\uc131\uc5ec\ub300\uc810",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "OD",
+      "owner_reply_count": 30,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "discounted": "2,900\uc6d0",
+        "basic": "3,400\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ud53c\uc790\uc0dd\uac01_20210621_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc6b0\uc774\ub3d9 72-133 1\uce35 \uc815\uba74 \uc6b0\uce21 \uccab\ubc88\uc9f8"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 37,
+      "adjusted_delivery_fee": 3500,
+      "is_available_delivery": true,
+      "new_rating": 0.0514168,
+      "app_order": true,
+      "lng": 127.025806534894,
+      "list_pos": 38,
+      "open": true,
+      "id": 436996,
+      "estimated_delivery_time": "73~83\ubd84",
+      "review_count": 81,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 904,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 4000,
+            "discount_mov": 15000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20201211181131073253_871d872ffb60b19cbbc2f307cf7e7dac_tn.jpg",
+      "reachable": true,
+      "additional_discount": 4000,
+      "new": false,
+      "minimum_pickup_minutes": 0,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "CESCO",
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6435062402132,
+      "end": "23:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ubd84\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 4.7,
+      "min_order_amount": 14000,
+      "distance": 0.44026472343,
+      "franchise_name": "\uc528\uc9c0\uc5d0\ud504\uc8fc\uc2dd\ud68c\uc0ac / \uc0bc\ucca9\ubd84\uc2dd",
+      "except_cash": false,
+      "name": "\uc0bc\ucca9\ubd84\uc2dd-\uc11c\uc6b8\uc218\uc720\uc810",
+      "phone": "050352861044",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 0,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "3,500\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\uc0bc\ucca9\ubd84\uc2dd_20201208_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 170-105 1\uce35"
+    },
+    {
+      "phone_order": false,
+      "free_delivery_threshold": 0,
+      "section_pos": 38,
+      "adjusted_delivery_fee": 2500,
+      "is_available_delivery": true,
+      "new_rating": 0.0507402,
+      "app_order": true,
+      "lng": 127.020313892814,
+      "list_pos": 39,
+      "open": true,
+      "id": 1004034,
+      "estimated_delivery_time": "45~55\ubd84",
+      "review_count": 29,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 71,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 2000,
+            "discount_mov": 16000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210315164332919147_ed6739c1b1346c6033574db2f9b0a303_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "minimum_pickup_minutes": 0,
+      "thumbnail_message": "",
+      "begin": "14:32:00",
+      "is_available_pickup": false,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.6389224002002,
+      "end": "23:30:00",
+      "discount_until": null,
+      "categories": [
+        "\uce58\ud0a8",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 16000,
+      "distance": 0.46004356036,
+      "franchise_name": "(\uc8fc)\ud398\ub9ac\uce74\ub098 / \ud398\ub9ac\uce74\ub098",
+      "except_cash": false,
+      "name": "\ud398\ub9ac\uce74\ub098-\uc218\uc720\uc810",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 0,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,500\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ud398\ub9ac\uce74\ub098_20210616_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ubd81\uad6c \uc218\uc720\ub3d9 29-73 1\uce35 \uc88c\uce21"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 39,
+      "adjusted_delivery_fee": 3000,
+      "is_available_delivery": true,
+      "new_rating": 0.0463126,
+      "app_order": true,
+      "lng": 127.032979345583,
+      "list_pos": 40,
+      "open": true,
+      "id": 581074,
+      "estimated_delivery_time": "45~55\ubd84",
+      "review_count": 1,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 1337,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 2000,
+            "discount_mov": 20000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210526110052671194_7dce26d563dec983f210cf8e222d9b2f_tn.jpg",
+      "reachable": true,
+      "additional_discount": 2000,
+      "new": false,
+      "minimum_pickup_minutes": 0,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": false,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.647313812002,
+      "end": "04:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ud55c\uc2dd",
+        "\uc57c\uc2dd",
+        "\uace0\uae30\uad6c\uc774",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 5.0,
+      "min_order_amount": 14000,
+      "distance": 1.08654150414,
+      "franchise_name": "\uc8fc\uc2dd\ud68c\uc0ac\ubaa8\ub450\uc5ec\ub294\uc138\uc0c1 / \ucd5c\uace0\ub0a8\uc81c\uc721\uba85\uac00",
+      "except_cash": false,
+      "name": "\ucd5c\uace0\ub0a8\uc81c\uc721\uba85\uac00-\uc30d\ubb38\uc810",
+      "phone": "050702794424",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 1,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "3,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ucd5c\uace0\ub0a8\uc81c\uc721\uba85\uac00_20210526_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \ub3c4\ubd09\uad6c \uc30d\ubb38\ub3d9 96-47 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 100000,
+      "section_pos": 40,
+      "adjusted_delivery_fee": 4000,
+      "is_available_delivery": true,
+      "new_rating": 0.0413135,
+      "app_order": true,
+      "lng": 127.026455558424,
+      "list_pos": 41,
+      "open": true,
+      "id": 536378,
+      "estimated_delivery_time": "46~56\ubd84",
+      "review_count": 15,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 1255,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 4000,
+            "discount_mov": 0
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210104140105729085_b668cc63fd08b6b4ef41db176aa5d206_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "minimum_pickup_minutes": 30,
+      "thumbnail_message": "",
+      "begin": "09:00:00",
+      "is_available_pickup": true,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.6223263603321,
+      "end": "08:00:00",
+      "discount_until": null,
+      "categories": [
+        "\uc57c\uc2dd",
+        "\ucc1c\ud0d5",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\ud55c\uc2dd",
+        "\ud14c\uc774\ud06c\uc544\uc6c3"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 15000,
+      "distance": 1.91772763514,
+      "franchise_name": "(\uc8fc)\ub514\ub514\uc5d0\ud504\uc5d4\ube44 / \ub514\ub514\ucc1c\uc5d4\ub2ed",
+      "except_cash": false,
+      "name": "\ub514\ub514\ucc1c\uc5d4\ub2ed-\ubbf8\uc544\uc810",
+      "phone": "050352973390",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 1,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "\ubb34\ub8cc~4,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ub514\ub514\ucc1c\uc5d4\ub2ed_20210104_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubbf8\uc544\ub3d9 316-41 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 41,
+      "adjusted_delivery_fee": 5000,
+      "is_available_delivery": true,
+      "new_rating": 0.031172,
+      "app_order": true,
+      "lng": 127.03450550237,
+      "list_pos": 42,
+      "open": true,
+      "id": 579514,
+      "estimated_delivery_time": "35~45\ubd84",
+      "review_count": 11,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 1401,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 5000,
+            "discount_mov": 20000
+          },
+          "pickup": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 5000,
+            "discount_mov": 20000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210728104928739148_f9de66e2e135b15fb4ed7cc901220a33_tn.jpg",
+      "reachable": true,
+      "additional_discount": 5000,
+      "new": false,
+      "minimum_pickup_minutes": 30,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": true,
+      "tags": [
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6679167510183,
+      "end": "03:00:00",
+      "discount_until": null,
+      "categories": [
+        "\uc57c\uc2dd",
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\ud55c\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\ucc1c\ud0d5",
+        "\ubd84\uc2dd"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 12000,
+      "distance": 3.25225523358,
+      "franchise_name": "[Brand]\ubcf6\ucc1c",
+      "except_cash": false,
+      "name": "\ubcf6\ucc1c-\ub3c4\ubd09\ubc29\ud559\uc810",
+      "phone": "050702793011",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 0,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "5,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/franchise_logos\ubcf6\ucc1c_20210812_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub3c4\ubd09\uad6c \ubc29\ud559\ub3d9 620-18 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 42,
+      "adjusted_delivery_fee": 3000,
+      "is_available_delivery": true,
+      "new_rating": -0.4186141,
+      "app_order": true,
+      "lng": 127.037702611266,
+      "list_pos": 43,
+      "open": true,
+      "id": 1028752,
+      "estimated_delivery_time": "35~45\ubd84",
+      "review_count": 1,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 1300,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 3000,
+            "discount_mov": 24000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210309104537697275_e262071da4a0f992d917f2ba6cbe2383_tn.jpg",
+      "reachable": true,
+      "additional_discount": 3000,
+      "new": true,
+      "minimum_pickup_minutes": 1,
+      "thumbnail_message": "",
+      "begin": "14:00:00",
+      "is_available_pickup": false,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.6577019700626,
+      "end": "03:30:00",
+      "discount_until": null,
+      "categories": [
+        "\ud55c\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 5.0,
+      "min_order_amount": 10500,
+      "distance": 2.28693360273,
+      "franchise_name": "(\uc8fc)\uc5e0\ube0c\ub85c\ucef4\ud37c\ub2c8 / \ucc1c\uaf41\ucc1c\ub2ed",
+      "except_cash": false,
+      "name": "\ucc1c\uaf41\ucc1c\ub2ed-\ubc29\ud559\uc810",
+      "phone": "050712869401",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 0,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "3,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ucc1c\uaf41\ucc1c\ub2ed_20210309_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub3c4\ubd09\uad6c \uc30d\ubb38\ub3d9 43-1 1\uce35 \ud604\ub2ec\ub9ac\ub294\ub140\uc11d\ub4e4 \ubd80\ubd84"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 43,
+      "adjusted_delivery_fee": 3000,
+      "is_available_delivery": true,
+      "new_rating": -0.4186141,
+      "app_order": true,
+      "lng": 127.037702611266,
+      "list_pos": 44,
+      "open": true,
+      "id": 1028749,
+      "estimated_delivery_time": "46~56\ubd84",
+      "review_count": 1,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "hotdeal",
+      "restaurant_type": "food",
+      "franchise_id": 1299,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 3000,
+            "discount_mov": 24000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210309104057326473_161b8b53d998a29bd219c7db7400b927_tn.jpg",
+      "reachable": true,
+      "additional_discount": 3000,
+      "new": true,
+      "minimum_pickup_minutes": 1,
+      "thumbnail_message": "",
+      "begin": "14:00:00",
+      "is_available_pickup": false,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.6577019700626,
+      "end": "03:30:00",
+      "discount_until": null,
+      "categories": [
+        "\ubd84\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 5.0,
+      "min_order_amount": 10500,
+      "distance": 2.28693360273,
+      "franchise_name": "(\uc8fc)\uc5e0\ube0c\ub85c\ucef4\ud37c\ub2c8 / \uacf1\ub5a1\uce58\ub5a1",
+      "except_cash": false,
+      "name": "\uacf1\ub5a1\uce58\ub5a1-\ubc29\ud559\uc810",
+      "phone": "050712869398",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 0,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "3,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\uacf1\ub5a1\uce58\ub5a1_20210309_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub3c4\ubd09\uad6c \uc30d\ubb38\ub3d9 43-1 1\uce35 \ud604\ub2ec\ub9ac\ub294\ub140\uc11d\ub4e4 \ubd80\ubd84"
+    },
+    {
+      "phone_order": false,
+      "section_pos": 1,
+      "adjusted_delivery_fee": 2900,
+      "is_available_delivery": true,
+      "new_rating": 0.7160147,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.035524262128,
+      "list_pos": 45,
+      "open": true,
+      "id": 307024,
+      "estimated_delivery_time": "20\ubd84",
+      "review_count": 659,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "discounts": {
+        "delivery_fee": {
+          "funding": 2400,
+          "campaign": 500
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20210114112427713423_bab64892b9cd86049224f298b7840bd7_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": null,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": false,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.6475495427005,
+      "end": "21:40:00",
+      "discount_until": null,
+      "categories": [
+        "\uce74\ud398\ub514\uc800\ud2b8"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 12000,
+      "distance": 1.25408046306,
+      "minimum_pickup_minutes": 0,
+      "except_cash": true,
+      "name": "\uc18c\ud655\ud589\ubca0\uc774\ucee4\ub9ac",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "OD",
+      "owner_reply_count": 528,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "discounted": "\ubb34\ub8cc",
+        "basic": "2,900\uc6d0"
+      },
+      "logo_url": "/media/restaurant_logos/\u110b\u1165\u11b8\u110e\u1166\u110c\u1161\u110e\u1166_20200508_307024_\u1109\u1169\u1112\u116a\u11a8\u1112\u1162\u11bc\u1107\u1166\u110b\u1175\u110f\u1165\u1105\u1175_\u1103\u1162\u1111\u116d\u1109\u1161\u110c\u1175\u11ab_300x300_CiUTfNZ.jpg",
+      "address": "\uc11c\uc6b8 \ub3c4\ubd09\uad6c \ucc3d\ub3d9 657-152 \ud0dc\uc6d0\ube4c\ub529 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 2,
+      "adjusted_delivery_fee": 0,
+      "is_available_delivery": true,
+      "new_rating": 0.7106785,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.0206547,
+      "list_pos": 46,
+      "open": true,
+      "id": 59062,
+      "estimated_delivery_time": "25~35\ubd84",
+      "review_count": 6590,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20210419110000000000_e0eb1a89146b627034d7c9489b5d7d7a_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": null,
+      "thumbnail_message": "",
+      "begin": "10:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "CESCO"
+      ],
+      "representative_menus": "",
+      "lat": 37.6342956,
+      "end": "20:30:00",
+      "discount_until": null,
+      "categories": [
+        "\uc911\uc2dd"
+      ],
+      "review_avg": 4.4,
+      "min_order_amount": 10000,
+      "distance": 0.72276147336,
+      "minimum_pickup_minutes": 0,
+      "except_cash": false,
+      "name": "\ud669\uae08\uc131",
+      "phone": "050352569610",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 4069,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "\ubb34\ub8cc"
+      },
+      "logo_url": "/media/restaurant_logos/\uc2a4\ud0c1_20210623_DHK\ub0b4\ubd80_\uc9dc\uc7a5\uba74_Side01_300x300_RVDI84_fj8YRWd.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 48-78"
+    },
+    {
+      "phone_order": false,
+      "section_pos": 3,
+      "adjusted_delivery_fee": 2900,
+      "is_available_delivery": true,
+      "new_rating": 0.6909624,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.033829748442,
+      "list_pos": 47,
+      "open": true,
+      "id": 496666,
+      "estimated_delivery_time": "22\ubd84",
+      "review_count": 1636,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": 1140,
+      "discounts": {
+        "delivery_fee": {
+          "funding": 2000,
+          "campaign": 500
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210419153411493234_a39945d91abca5ed3e21574362e10e65_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": "\uc8fc\uc2dd\ud68c\uc0ac\uac70\ubd81\uc774\uafc8 / \uad6c\uad6c\uc871",
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "CESCO",
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6480265529283,
+      "end": "23:00:00",
+      "discount_until": null,
+      "categories": [
+        "\uc871\ubc1c\ubcf4\uc308",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 19000,
+      "distance": 1.19503818411,
+      "minimum_pickup_minutes": 0,
+      "except_cash": true,
+      "name": "\uad6c\uad6c\uc871-\uc30d\ubb38\uc5ed\uc810",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "OD",
+      "owner_reply_count": 1622,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "discounted": "400\uc6d0",
+        "basic": "2,900\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\uad6c\uad6c\uc871_20210419_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \ub3c4\ubd09\uad6c \uc30d\ubb38\ub3d9 88-42 1\uce35 \uc77c\ubd80"
+    },
+    {
+      "phone_order": false,
+      "free_delivery_threshold": 0,
+      "section_pos": 4,
+      "adjusted_delivery_fee": 4400,
+      "is_available_delivery": true,
+      "new_rating": -0.3546942,
+      "app_order": true,
+      "lng": 127.040750773217,
+      "list_pos": 48,
+      "open": true,
+      "id": 1030466,
+      "estimated_delivery_time": "27\ubd84",
+      "review_count": 0,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "discounts": {
+        "delivery_fee": {
+          "funding": 0,
+          "campaign": 500
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20211109142417818400_ddf4f54f888faa924a8c04a4b179607a_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": true,
+      "franchise_name": null,
+      "thumbnail_message": "",
+      "begin": "17:00:00",
+      "is_available_pickup": false,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.6620183331558,
+      "end": "23:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ucc1c\ud0d5",
+        "\uce58\ud0a8"
+      ],
+      "review_avg": 0.0,
+      "min_order_amount": 16000,
+      "distance": 2.8367181408,
+      "minimum_pickup_minutes": 1,
+      "except_cash": true,
+      "name": "\uc804\ub77c\ub3c4\ub2ed",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "OD",
+      "owner_reply_count": 0,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "discounted": "3,900\uc6d0",
+        "basic": "4,400\uc6d0"
+      },
+      "logo_url": "/media/restaurant_logos/\uc2a4\ud0c1_20210513_DHK\ub0b4\ubd80_\ud6c4\ub77c\uc774\ub4dc\uce58\ud0a8_Top01_300x300_QVLO58_x3tUFk2.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub3c4\ubd09\uad6c \ubc29\ud559\ub3d9 675-36 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 5,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.5457894,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.02455613656,
+      "list_pos": 49,
+      "open": true,
+      "id": 292990,
+      "estimated_delivery_time": "37~47\ubd84",
+      "review_count": 5415,
+      "discount_from": "2021-11-13T16:00:00",
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20210419110000000000_2fadc24b9fcaa90033ca061fd03ff81c_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": null,
+      "thumbnail_message": "",
+      "begin": "11:30:00",
+      "is_available_pickup": true,
+      "tags": [
+        "excellent"
+      ],
+      "representative_menus": "",
+      "lat": 37.6257274275584,
+      "end": "23:30:00",
+      "discount_until": "2021-11-13T22:59:59.999999",
+      "categories": [
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\uc57c\uc2dd",
+        "\ubd84\uc2dd",
+        "\ud55c\uc2dd"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 14000,
+      "distance": 1.5397457213299999,
+      "minimum_pickup_minutes": 20,
+      "except_cash": false,
+      "name": "\uc606\uc9d1\ub5a1\ubcf6\uc774-\ubbf8\uc544\uc810",
+      "phone": "050712951557",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 5401,
+      "discount_percent": 5,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/restaurant_logos/\uc606\uc9d1\ub5a1\ubcf6\uc774_20181018_\uac00\ub9f9\ub85c\uace0\uc774\ubbf8\uc9c0\uc57d\uc815\uc11c_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubbf8\uc544\ub3d9 303-89 \ub0a8\ub300\ubb38\ud55c\uc758\uc6d0 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 6,
+      "adjusted_delivery_fee": 1000,
+      "is_available_delivery": true,
+      "new_rating": 0.6709115,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.024277736952,
+      "list_pos": 50,
+      "open": true,
+      "id": 241149,
+      "estimated_delivery_time": "35~45\ubd84",
+      "review_count": 6817,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20200929162413539906_090a6ad87f40237f67cc414fd2fe53bb_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": null,
+      "thumbnail_message": "",
+      "begin": "15:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "excellent"
+      ],
+      "representative_menus": "",
+      "lat": 37.6341307975143,
+      "end": "02:30:00",
+      "discount_until": null,
+      "categories": [
+        "\uce58\ud0a8",
+        "1\uc778\ubd84\uc8fc\ubb38"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 10000,
+      "distance": 0.6123698808,
+      "minimum_pickup_minutes": 0,
+      "except_cash": false,
+      "name": "\ub2ed\uce58GO",
+      "phone": "050712901274",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 6746,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "1,000\uc6d0"
+      },
+      "logo_url": "/media/restaurant_logos/\uc5c5\uccb4\uc790\uccb4_20201023_241149_\ub2ed\uce58GO_\ub300\ud45c\uc0ac\uc9c4_300x300.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubbf8\uc544\ub3d9 159-48 1\uce35 \uc624\ub978\ucabd"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 7,
+      "adjusted_delivery_fee": 0,
+      "is_available_delivery": true,
+      "new_rating": 0.6606215,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.024020789524,
+      "list_pos": 51,
+      "open": true,
+      "id": 258684,
+      "estimated_delivery_time": "37~47\ubd84",
+      "review_count": 6525,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": 669,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20200428183114254253_4313d312003de808a07367a39ecdc3f9_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "minimum_pickup_minutes": 20,
+      "thumbnail_message": "",
+      "begin": "13:00:00",
+      "is_available_pickup": true,
+      "tags": [
+        "CESCO",
+        "excellent"
+      ],
+      "representative_menus": "",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 224-5 1\uce35",
+      "lat": 37.638950037115,
+      "end": "05:30:00",
+      "discount_until": null,
+      "categories": [
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\uc871\ubc1c\ubcf4\uc308",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\uc57c\uc2dd"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 28000,
+      "distance": 0.14482313799,
+      "franchise_name": "(\uc8fc)\uc871\ubc1c\uc57c\uc2dc\uc7a5 / \uc871\ubc1c\uc57c\uc2dc\uc7a5",
+      "except_cash": false,
+      "name": "\uc871\ubc1c\uc57c\uc2dc\uc7a5-\uc218\uc720\uc5ed\uc810",
+      "phone": "050712919378",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 6217,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "\ubb34\ub8cc"
+      },
+      "logo_url": "/media/franchise_logos/\uc871\ubc1c\uc57c\uc2dc\uc7a5_20190409_Franchise\uc774\ubbf8\uc9c0\uc57d\uc815\uc11c_crop_200x200.jpg"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 8,
+      "adjusted_delivery_fee": 1000,
+      "is_available_delivery": true,
+      "new_rating": 0.6463584,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.028130849865,
+      "list_pos": 52,
+      "open": true,
+      "id": 1538,
+      "estimated_delivery_time": "45~55\ubd84",
+      "review_count": 4008,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20211018130000000000_55357fd6698e69c6081b1b4ece266835_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": null,
+      "thumbnail_message": "",
+      "begin": "16:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "excellent"
+      ],
+      "representative_menus": "",
+      "lat": 37.6353282114798,
+      "end": "22:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ud53c\uc790\uc591\uc2dd",
+        "\uc57c\uc2dd"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 12000,
+      "distance": 0.5249306515900001,
+      "minimum_pickup_minutes": 0,
+      "except_cash": false,
+      "name": "\ud53c\uc790\uae00\ub9ad-\uac15\ubd81\uc810",
+      "phone": "050352538971",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 6,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "1,000\uc6d0"
+      },
+      "logo_url": "/media/restaurant_logos/\ud53c\uc79001_20131128_FoodAD_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ubd81\uad6c \ubc88\ub3d9 443-79 443-79 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 9,
+      "adjusted_delivery_fee": 2500,
+      "is_available_delivery": true,
+      "new_rating": -0.4249593,
+      "app_order": true,
+      "lng": 127.026197880423,
+      "list_pos": 53,
+      "open": true,
+      "id": 1028781,
+      "estimated_delivery_time": "46~56\ubd84",
+      "review_count": 3,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": 447,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210907133607739988_6394d5318ea82cc4556709c3356d6f32_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": true,
+      "franchise_name": "(\uc8fc)\uc77c\ubbf8\ub9ac / \uc77c\ubbf8\ub9ac\uae08\uacc4\ucc1c\ub2ed",
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": false,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.6466449187858,
+      "end": "22:30:00",
+      "discount_until": null,
+      "categories": [
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\ucc1c\ud0d5",
+        "\ud55c\uc2dd"
+      ],
+      "review_avg": 5.0,
+      "min_order_amount": 19000,
+      "distance": 0.7908642527399999,
+      "minimum_pickup_minutes": 0,
+      "except_cash": false,
+      "name": "\uc77c\ubbf8\ub9ac\uae08\uacc4\ucc1c\ub2ed-\uc11c\uc6b8\uc30d\ubb38\uc810",
+      "phone": "050712869423",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 3,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,500\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\uc77c\ubbf8\ub9ac\uae08\uacc4\ucc1c\ub2ed_20191024_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub3c4\ubd09\uad6c \uc30d\ubb38\ub3d9 381-36 1\uce35 103\ud638"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 10,
+      "adjusted_delivery_fee": 1000,
+      "is_available_delivery": true,
+      "new_rating": 0.5367652,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.029533024295,
+      "list_pos": 54,
+      "open": true,
+      "id": 573157,
+      "estimated_delivery_time": "59~69\ubd84",
+      "review_count": 962,
+      "discount_from": "2021-11-13T11:00:00",
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20210730181637717850_044d3560227e2bac617babc6c7bfe2d1_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": null,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": true,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.638425579037,
+      "end": "02:00:00",
+      "discount_until": "2021-11-13T23:44:59.999999",
+      "categories": [
+        "\uc57c\uc2dd",
+        "\ud53c\uc790\uc591\uc2dd",
+        "\ud14c\uc774\ud06c\uc544\uc6c3"
+      ],
+      "review_avg": 5.0,
+      "min_order_amount": 13000,
+      "distance": 0.37859428334,
+      "minimum_pickup_minutes": 20,
+      "except_cash": false,
+      "name": "\ud61c\uc790\ud53c\uc790-\ubcf8\uc810",
+      "phone": "050702786546",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 959,
+      "discount_percent": 5,
+      "delivery_fee_to_display": {
+        "basic": "1,000\uc6d0"
+      },
+      "logo_url": "/media/restaurant_logos/\uc5c5\uccb4\uc790\uccb4_20210705_573157_\ud61c\uc790\ud53c\uc790-\ubcf8\uc810_\ub300\ud45c\uc0ac\uc9c4_300x300.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubc88\ub3d9 461-114 \ubcf4\uc131\uc804\uae30 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 11,
+      "adjusted_delivery_fee": 1900,
+      "is_available_delivery": true,
+      "new_rating": 0.6346648,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.0360368,
+      "list_pos": 55,
+      "open": true,
+      "id": 27019,
+      "estimated_delivery_time": "45~55\ubd84",
+      "review_count": 3808,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20210816110000000000_9ffaaae7db5da3dfde7afe1c3ede1cca_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": null,
+      "thumbnail_message": "",
+      "begin": "10:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "CESCO",
+        "excellent"
+      ],
+      "representative_menus": "",
+      "lat": 37.6351887,
+      "end": "23:30:00",
+      "discount_until": null,
+      "categories": [
+        "\ud55c\uc2dd",
+        "\ubd84\uc2dd",
+        "\uce58\ud0a8",
+        "\uc77c\uc2dd\ub3c8\uae4c\uc2a4",
+        "\ud53c\uc790\uc591\uc2dd"
+      ],
+      "review_avg": 4.7,
+      "min_order_amount": 12000,
+      "distance": 1.04898133213,
+      "minimum_pickup_minutes": 0,
+      "except_cash": false,
+      "name": "\uc0bf\ud3ec\ub85c\ub3c8\uae4c\uc2a4\uc564\uc2a4\ud30c\uac8c\ud2f0",
+      "phone": "050352567003",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 1173,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "1,900\uc6d0"
+      },
+      "logo_url": "/media/restaurant_logos/\uc2a4\ud0c1_20210721_DHK\ub0b4\ubd80_\uc0dd\uc120\uae4c\uc2a4_Side01_300x300_RMNW92_xauywRS.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubc88\ub3d9  430-1 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 12,
+      "adjusted_delivery_fee": 0,
+      "is_available_delivery": true,
+      "new_rating": 0.623119,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.038232684164,
+      "list_pos": 56,
+      "open": true,
+      "id": 264374,
+      "estimated_delivery_time": "28~38\ubd84",
+      "review_count": 2965,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": 669,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20200428183114254253_4313d312003de808a07367a39ecdc3f9_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": "(\uc8fc)\uc871\ubc1c\uc57c\uc2dc\uc7a5 / \uc871\ubc1c\uc57c\uc2dc\uc7a5",
+      "thumbnail_message": "",
+      "begin": "12:00:00",
+      "is_available_pickup": true,
+      "tags": [
+        "CESCO"
+      ],
+      "representative_menus": "",
+      "lat": 37.6578802342164,
+      "end": "02:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\uc871\ubc1c\ubcf4\uc308",
+        "\uc57c\uc2dd"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 29000,
+      "distance": 2.3266048675000004,
+      "minimum_pickup_minutes": 20,
+      "except_cash": false,
+      "name": "\uc871\ubc1c\uc57c\uc2dc\uc7a5-\uc30d\ubb38\uc810",
+      "phone": "050712925210",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 2954,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "\ubb34\ub8cc"
+      },
+      "logo_url": "/media/franchise_logos/\uc871\ubc1c\uc57c\uc2dc\uc7a5_20190409_Franchise\uc774\ubbf8\uc9c0\uc57d\uc815\uc11c_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \ub3c4\ubd09\uad6c \uc30d\ubb38\ub3d9 40-4 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 13,
+      "adjusted_delivery_fee": 0,
+      "is_available_delivery": true,
+      "new_rating": 0.610223,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.019147194657,
+      "list_pos": 57,
+      "open": true,
+      "id": 262103,
+      "estimated_delivery_time": "41~51\ubd84",
+      "review_count": 8591,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20210419110000000000_aed50e701e8e41b4b535c7a79d37c64c_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": null,
+      "thumbnail_message": "",
+      "begin": "10:00:00",
+      "is_available_pickup": false,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.6329745358262,
+      "end": "20:50:00",
+      "discount_until": null,
+      "categories": [
+        "1\uc778\ubd84\uc8fc\ubb38",
+        "\uc911\uc2dd"
+      ],
+      "review_avg": 4.5,
+      "min_order_amount": 5000,
+      "distance": 0.9198655156,
+      "minimum_pickup_minutes": 0,
+      "except_cash": false,
+      "name": "\ub9cc\uc120-\uc218\uc720\uc810",
+      "phone": "050712922892",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 2,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "\ubb34\ub8cc"
+      },
+      "logo_url": "/media/restaurant_logos/\uc911\uc2dd01_20131205_foodon_crop_200x200_dYADCBk.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 56-39"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 14,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.4920274,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.030122121317,
+      "list_pos": 58,
+      "open": true,
+      "id": 580249,
+      "estimated_delivery_time": "30~40\ubd84",
+      "review_count": 772,
+      "discount_from": "2021-11-13T10:00:00",
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20210614124130637980_c5c02c4dad82cad860559fe2740e6834_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": null,
+      "thumbnail_message": "",
+      "begin": "10:00:00",
+      "is_available_pickup": true,
+      "tags": [
+        "CESCO"
+      ],
+      "representative_menus": "",
+      "lat": 37.6425386301244,
+      "end": "09:59:00",
+      "discount_until": "2021-11-13T21:59:59.999999",
+      "categories": [
+        "\uc871\ubc1c\ubcf4\uc308",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\ud55c\uc2dd",
+        "1\uc778\ubd84\uc8fc\ubb38",
+        "\ubd84\uc2dd",
+        "\uc57c\uc2dd"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 5000,
+      "distance": 0.5266075944599999,
+      "minimum_pickup_minutes": 30,
+      "except_cash": false,
+      "name": "\uad6c\uacf5\uc871\ubc1c-\uc218\uc720\uc810",
+      "phone": "050702793767",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 193,
+      "discount_percent": 15,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/restaurant_logos/\uc5c5\uccb4\uc790\uccb4_20210615_580249_\uad6c\uacf5\uc871\ubc1c-\uc218\uc720\uc810_\ub300\ud45c\uc0ac\uc9c4_300x300.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ubd81\uad6c \uc218\uc720\ub3d9 168-50 \ud0dc\uc77c\ube4c\ub529 168-50 \ud0dc\uc77c\ube4c\ub529 1\uce35 5\ud638"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 15,
+      "adjusted_delivery_fee": 1500,
+      "is_available_delivery": true,
+      "new_rating": 0.5951624,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.017683923572,
+      "list_pos": 59,
+      "open": true,
+      "id": 329018,
+      "estimated_delivery_time": "45~55\ubd84",
+      "review_count": 1825,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20210419110000000000_f36c5d35c7c1fe546582bf1a2b15d10b_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": null,
+      "thumbnail_message": "",
+      "begin": "14:30:00",
+      "is_available_pickup": true,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.6370922145355,
+      "end": "02:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "1\uc778\ubd84\uc8fc\ubb38",
+        "\ud55c\uc2dd",
+        "\uc57c\uc2dd",
+        "\uace0\uae30\uad6c\uc774"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 11900,
+      "distance": 0.7388535292599999,
+      "minimum_pickup_minutes": 20,
+      "except_cash": false,
+      "name": "\ud638\uac00\ub124\uacf1\ucc3d",
+      "phone": "050712985195",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 1093,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "1,500\uc6d0"
+      },
+      "logo_url": "/media/restaurant_logos/\uc591\ub150\uacf1\ucc3d01_20131128_FoodAD_crop_200x200_uUeTPCU.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 399-1 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 16,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.5923956,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.02520186447,
+      "list_pos": 60,
+      "open": true,
+      "id": 256979,
+      "estimated_delivery_time": "39~49\ubd84",
+      "review_count": 3915,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20210802185045571713_dc8dac3f4e32f8b26c3a094760d98520_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": null,
+      "thumbnail_message": "",
+      "begin": "09:00:00",
+      "is_available_pickup": false,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.637151343312,
+      "end": "22:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ud55c\uc2dd",
+        "\ubd84\uc2dd"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 11000,
+      "distance": 0.26842131207,
+      "minimum_pickup_minutes": 0,
+      "except_cash": false,
+      "name": "\ub9d8\uc2a4\ub5a1\ubcf6\uc774n\ucef5\ubc25-\uc218\uc720\uc810",
+      "phone": "050712987784",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 457,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/restaurant_logos/\uc5c5\uccb4\uc790\uccb4_20210804_256979_\ub9d8\uc2a4\ub5a1\ubcf6\uc774n\ucef5\ubc25-\uc218\uc720\uc810_\ub300\ud45c\uc0ac\uc9c4_300x300.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubc88\ub3d9 446-13 \uac00\ub4e0\ud0c0\uc6cc\ube4c\ub529 \uc9c0\ud5581\uce35 108\ud638"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 17,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.58744,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.016586129776,
+      "list_pos": 61,
+      "open": true,
+      "id": 258022,
+      "estimated_delivery_time": "35~45\ubd84",
+      "review_count": 5377,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": 375,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 2000,
+            "discount_mov": 20000
+          },
+          "pickup": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 2000,
+            "discount_mov": 20000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20201211181002198512_1ed9be7cde758b52c73936356cfb042f_tn.jpg",
+      "reachable": true,
+      "additional_discount": 2000,
+      "new": false,
+      "minimum_pickup_minutes": 10,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": true,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.6309623553632,
+      "end": "23:00:00",
+      "discount_until": null,
+      "categories": [
+        "\uc871\ubc1c\ubcf4\uc308",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\ud55c\uc2dd",
+        "\ud53c\uc790\uc591\uc2dd",
+        "\uc57c\uc2dd",
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "1\uc778\ubd84\uc8fc\ubb38"
+      ],
+      "review_avg": 4.7,
+      "min_order_amount": 9000,
+      "distance": 1.23529026077,
+      "franchise_name": "\uc8fc\uc2dd\ud68c\uc0ac\ubaa8\ub450\uc5ec\ub294\uc138\uc0c1 / \ubc30\ub2ec\uc0bc\uacb9\uc9c1\uad6c\uc0bc",
+      "except_cash": false,
+      "name": "\uc9c1\ud654\uc0bc\uacb9\uc9c1\uad6c\uc0bc-\uc218\uc720\uc810",
+      "phone": "050712918681",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 2767,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/Franchise_logos\ubc30\ub2ec\uc0bc\uacb9\uc9c1\uad6c\uc0bc_20210819_crop_200x200.jpg.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ubd81\uad6c \uc218\uc720\ub3d9 472-602 472-602 1\uce35 \ubc30\ub2ec\uc0bc\uacb9\uc9c1\uad6c\uc0bc"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 18,
+      "adjusted_delivery_fee": 3500,
+      "is_available_delivery": true,
+      "new_rating": 0.355674,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.026183151242,
+      "list_pos": 62,
+      "open": true,
+      "id": 293732,
+      "estimated_delivery_time": "48~58\ubd84",
+      "review_count": 2273,
+      "discount_from": "2021-11-13T17:00:00",
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": 869,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210329190427898786_cd289a6cea369a4444d942f05b027ab6_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": "(\uc8fc)\uc774\uc0ad / \uc774\uc0ad\ud1a0\uc2a4\ud2b8",
+      "thumbnail_message": "",
+      "begin": "07:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "CESCO"
+      ],
+      "representative_menus": "",
+      "lat": 37.6374301122287,
+      "end": "02:50:00",
+      "discount_until": "2021-11-13T23:44:59.999999",
+      "categories": [
+        "\uce74\ud398\ub514\uc800\ud2b8",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\uc0cc\ub4dc\uc704\uce58"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 10000,
+      "distance": 0.24436987636000002,
+      "minimum_pickup_minutes": 0,
+      "except_cash": false,
+      "name": "\uc774\uc0ad\ud1a0\uc2a4\ud2b8-\uc218\uc720\uc5ed\uc810",
+      "phone": "050712952232",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 1272,
+      "discount_percent": 5,
+      "delivery_fee_to_display": {
+        "basic": "3,500\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\uc774\uc0ad\ud1a0\uc2a4\ud2b8_20191021_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubc88\ub3d9 446-1 \ubbf8\ub2c8\uc2a4\ud1b1 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 19,
+      "adjusted_delivery_fee": 1000,
+      "is_available_delivery": true,
+      "new_rating": 0.5840445,
+      "app_order": true,
+      "free_delivery_threshold": 50000,
+      "lng": 127.021051726419,
+      "list_pos": 63,
+      "open": true,
+      "id": 304657,
+      "estimated_delivery_time": "45~55\ubd84",
+      "review_count": 2485,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": 821,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210721181909058631_57af6ae91ef1a7d424e1eeae7bad38c2_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": "(\uc8fc)\ube44\uc5d0\uc2a4\ube44\ud478\ub4dc / \uccad\ub144\ud53c\uc790",
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": true,
+      "tags": [
+        "excellent"
+      ],
+      "representative_menus": "",
+      "lat": 37.634348562189,
+      "end": "23:40:00",
+      "discount_until": null,
+      "categories": [
+        "\ud53c\uc790\uc591\uc2dd",
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 14900,
+      "distance": 0.69789818817,
+      "minimum_pickup_minutes": 20,
+      "except_cash": false,
+      "name": "\uccad\ub144\ud53c\uc790-\uac15\ubd81\uad6c\uc810",
+      "phone": "050712962444",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 2484,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "\ubb34\ub8cc~1,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\uccad\ub144\ud53c\uc790_20210621_Franchise_crop_200x200_Dxc08kl.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 48-20 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 20,
+      "adjusted_delivery_fee": 3000,
+      "is_available_delivery": true,
+      "new_rating": -0.4186141,
+      "app_order": true,
+      "lng": 127.037702611266,
+      "list_pos": 64,
+      "open": true,
+      "id": 1028752,
+      "estimated_delivery_time": "35~45\ubd84",
+      "review_count": 1,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": 1300,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 3000,
+            "discount_mov": 24000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210309104537697275_e262071da4a0f992d917f2ba6cbe2383_tn.jpg",
+      "reachable": true,
+      "additional_discount": 3000,
+      "new": true,
+      "minimum_pickup_minutes": 1,
+      "thumbnail_message": "",
+      "begin": "14:00:00",
+      "is_available_pickup": false,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.6577019700626,
+      "end": "03:30:00",
+      "discount_until": null,
+      "categories": [
+        "\ud55c\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 5.0,
+      "min_order_amount": 10500,
+      "distance": 2.28693360273,
+      "franchise_name": "(\uc8fc)\uc5e0\ube0c\ub85c\ucef4\ud37c\ub2c8 / \ucc1c\uaf41\ucc1c\ub2ed",
+      "except_cash": false,
+      "name": "\ucc1c\uaf41\ucc1c\ub2ed-\ubc29\ud559\uc810",
+      "phone": "050712869401",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 0,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "3,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ucc1c\uaf41\ucc1c\ub2ed_20210309_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub3c4\ubd09\uad6c \uc30d\ubb38\ub3d9 43-1 1\uce35 \ud604\ub2ec\ub9ac\ub294\ub140\uc11d\ub4e4 \ubd80\ubd84"
+    },
+    {
+      "phone_order": false,
+      "section_pos": 21,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.5797891,
+      "app_order": true,
+      "free_delivery_threshold": 12000,
+      "lng": 127.025939145027,
+      "list_pos": 65,
+      "open": true,
+      "id": 313605,
+      "estimated_delivery_time": "74~84\ubd84",
+      "review_count": 4673,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": 70,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210324155122047397_554dd28b521257ca90907bd7771819bc_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": "\ud55c\uad6d\ub9e5\ub3c4\ub0a0\ub4dc\uc720\ud55c\ud68c\uc0ac / \ub9e5\ub3c4\ub0a0\ub4dc",
+      "thumbnail_message": "",
+      "begin": "04:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "relayo",
+        "excellent"
+      ],
+      "representative_menus": "",
+      "lat": 37.6379430985918,
+      "end": "02:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ubc84\uac70",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "1\uc778\ubd84\uc8fc\ubb38"
+      ],
+      "review_avg": 4.6,
+      "min_order_amount": 3000,
+      "distance": 0.18384566430000002,
+      "minimum_pickup_minutes": 0,
+      "except_cash": true,
+      "name": "\ub9e5\ub3c4\ub0a0\ub4dc-\uc218\uc720\uc810",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 0,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "\ubb34\ub8cc~2,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ub9e5\ub3c4\ub0a0\ub4dc_20190523_Franchise_crop_200x200.png",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubc88\ub3d9 418-17"
+    },
+    {
+      "phone_order": false,
+      "section_pos": 22,
+      "adjusted_delivery_fee": 2900,
+      "is_available_delivery": true,
+      "new_rating": 0.5775065,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.038147415992,
+      "list_pos": 66,
+      "open": true,
+      "id": 443831,
+      "estimated_delivery_time": "25\ubd84",
+      "review_count": 3225,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "discounts": {
+        "delivery_fee": {
+          "funding": 0,
+          "campaign": 500
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20201224160735478309_61d76a94da74bfaa8ee045b41268ac37_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": null,
+      "thumbnail_message": "",
+      "begin": "17:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "excellent"
+      ],
+      "representative_menus": "",
+      "lat": 37.6384216204126,
+      "end": "22:00:00",
+      "discount_until": null,
+      "categories": [
+        "\uc77c\uc2dd\ub3c8\uae4c\uc2a4",
+        "1\uc778\ubd84\uc8fc\ubb38",
+        "\ud68c\ucd08\ubc25",
+        "\ud55c\uc2dd"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 9000,
+      "distance": 1.12276017645,
+      "minimum_pickup_minutes": 0,
+      "except_cash": true,
+      "name": "\ub2e4\uc628\ucd08\ubc25-\ubcf8\uc810",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "OD",
+      "owner_reply_count": 577,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "discounted": "2,400\uc6d0",
+        "basic": "2,900\uc6d0"
+      },
+      "logo_url": "/media/restaurant_logos/DHK\ucd2c\uc601_20201224_443831_\ub2e4\uc628\ucd08\ubc25-\ubcf8\uc810_\ub300\ud45c\uc0ac\uc9c4_300x300.jpg",
+      "address": "\uc11c\uc6b8 \ub3c4\ubd09\uad6c \ucc3d\ub3d9 557-97 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 23,
+      "adjusted_delivery_fee": 1500,
+      "is_available_delivery": true,
+      "new_rating": 0.3199587,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.038763882439,
+      "list_pos": 67,
+      "open": true,
+      "id": 470976,
+      "estimated_delivery_time": "55~65\ubd84",
+      "review_count": 773,
+      "discount_from": "2021-11-13T12:00:00",
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": 1447,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20200710105004966577_76bdf5fbec4a1f59a1dff16bb28c8cf5_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": "[Brand]\uc655\uc190\ud53c\uc790",
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": true,
+      "tags": [
+        "CESCO"
+      ],
+      "representative_menus": "",
+      "lat": 37.6586890953136,
+      "end": "10:59:00",
+      "discount_until": "2021-11-13T23:44:59.999999",
+      "categories": [
+        "\ubd84\uc2dd",
+        "\uce58\ud0a8",
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\ud53c\uc790\uc591\uc2dd",
+        "\uc57c\uc2dd"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 14900,
+      "distance": 2.42794699107,
+      "minimum_pickup_minutes": 30,
+      "except_cash": false,
+      "name": "\uc655\uc190\ud53c\uc790\ud1a0\ud551\uc774\ub9ce\uc544\ub9db\uc788\ub294\ub3c4\ubd09\uad6c\uc810",
+      "phone": "050352904385",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 470,
+      "discount_percent": 5,
+      "delivery_fee_to_display": {
+        "basic": "1,500\uc6d0"
+      },
+      "logo_url": "/media/restaurant_logos/\uc5c5\uccb4\uc790\uccb4_20201012_491620_\uc655\uc190\ud53c\uc790-\uac00\uc7a5\uc810_\ub300\ud45c\uc0ac\uc9c4_300x300.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \ub3c4\ubd09\uad6c \uc30d\ubb38\ub3d9 38-4 38-4 1\uce35 \uc88c\uce21\ub05d"
+    },
+    {
+      "phone_order": false,
+      "section_pos": 24,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.5761154,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.025074332521,
+      "list_pos": 68,
+      "open": true,
+      "id": 283218,
+      "estimated_delivery_time": "49~59\ubd84",
+      "review_count": 2148,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": 551,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20201126182722381150_78cbe003d9db18dcc100d789c9800390_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": "\ub86f\ub370\uc9c0\uc54c\uc5d0\uc2a4\uc8fc\uc2dd\ud68c\uc0ac / \uc5d4\uc81c\ub9ac\ub108\uc2a4\ucee4\ud53c",
+      "thumbnail_message": "",
+      "begin": "05:00:00",
+      "is_available_pickup": true,
+      "tags": [
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6378876663999,
+      "end": "04:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\uce74\ud398\ub514\uc800\ud2b8",
+        "\uc0cc\ub4dc\uc704\uce58",
+        "\ud14c\uc774\ud06c\uc544\uc6c3"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 10000,
+      "distance": 0.18880955781,
+      "minimum_pickup_minutes": 20,
+      "except_cash": true,
+      "name": "\uc5d4\uc81c\ub9ac\ub108\uc2a4-\uc218\uc720\uc5ed\uc810",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 2098,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\uc5d4\uc824\ub9ac\ub108\uc2a4_20190110_Franchise\uc774\ubbf8\uc9c0\uc57d\uc815\uc11c_crop_200x200.png",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 229-5 \uc815\uc6b0\ube4c\ub529"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 25,
+      "adjusted_delivery_fee": 0,
+      "is_available_delivery": true,
+      "new_rating": 0.569276,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.037132438194,
+      "list_pos": 69,
+      "open": true,
+      "id": 48761,
+      "estimated_delivery_time": "35~45\ubd84",
+      "review_count": 3804,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20210419110000000000_f906b9bc2a5a266c8cb491f22946caba_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": null,
+      "thumbnail_message": "",
+      "begin": "10:30:00",
+      "is_available_pickup": false,
+      "tags": [
+        "CESCO"
+      ],
+      "representative_menus": "",
+      "lat": 37.6404521869524,
+      "end": "20:20:00",
+      "discount_until": null,
+      "categories": [
+        "1\uc778\ubd84\uc8fc\ubb38",
+        "\uc911\uc2dd"
+      ],
+      "review_avg": 4.5,
+      "min_order_amount": 7000,
+      "distance": 1.03110622813,
+      "minimum_pickup_minutes": 0,
+      "except_cash": false,
+      "name": "\uc694\ub9ac\uc655",
+      "phone": "050352561577",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 0,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "\ubb34\ub8cc"
+      },
+      "logo_url": "/media/restaurant_logos/\uc2a4\ud0c1_20210721_DHK\ub0b4\ubd80_\uc1a1\uc774\ub36e\ubc25_Side01_300x300_RMQN53_LZo4W2p.jpg",
+      "address": "\uc11c\uc6b8 \ub3c4\ubd09\uad6c \ucc3d\ub3d9 582-65 1\uce35"
+    },
+    {
+      "phone_order": false,
+      "section_pos": 26,
+      "adjusted_delivery_fee": 2900,
+      "is_available_delivery": true,
+      "new_rating": 0.5671997,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.023557165992,
+      "list_pos": 70,
+      "open": true,
+      "id": 523913,
+      "estimated_delivery_time": "16\ubd84",
+      "review_count": 257,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "discounts": {
+        "delivery_fee": {
+          "funding": 2900,
+          "campaign": 500
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20210816110000000000_91fe52bb49fb4f243f08d7b7086bdb5a_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": null,
+      "thumbnail_message": "",
+      "begin": "10:00:00",
+      "is_available_pickup": false,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.6306061103155,
+      "end": "23:00:00",
+      "discount_until": null,
+      "categories": [
+        "\ubd84\uc2dd",
+        "\ucc1c\ud0d5",
+        "\ud55c\uc2dd"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 10000,
+      "distance": 1.00938143035,
+      "minimum_pickup_minutes": 0,
+      "except_cash": true,
+      "name": "\ub2f4\uafb9-\uc218\uc720\uc2dc\uc7a5\uc810",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "OD",
+      "owner_reply_count": 209,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "discounted": "\ubb34\ub8cc",
+        "basic": "2,900\uc6d0"
+      },
+      "logo_url": "/media/restaurant_logos/\uc2a4\ud0c1_20191112_DHK\ucd2c\uc601\ud569\uc131_\uc81c\uc721\ubcf6\uc74c-\ucc1c\ub2ed_Top01_300x300_ycRl9dn.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubbf8\uc544\ub3d9 217-1 104\ud638"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 27,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.5648099,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.021194678643,
+      "list_pos": 71,
+      "open": true,
+      "id": 321257,
+      "estimated_delivery_time": "55~65\ubd84",
+      "review_count": 5489,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": 727,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20210928135129784155_29919a8b502fae882206b8c8942a459d_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": "(\uc8fc)\uc9c0\ucf54\ubc14 / \uc9c0\ucf54\ubc14\uce58\ud0a8",
+      "thumbnail_message": "",
+      "begin": "11:30:00",
+      "is_available_pickup": true,
+      "tags": [
+        "CESCO"
+      ],
+      "representative_menus": "",
+      "lat": 37.6342058324855,
+      "end": "00:30:00",
+      "discount_until": null,
+      "categories": [
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\uce58\ud0a8",
+        "\uc57c\uc2dd"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 16000,
+      "distance": 0.70430125043,
+      "minimum_pickup_minutes": 20,
+      "except_cash": false,
+      "name": "\uc9c0\ucf54\ubc14\uce58\ud0a8-\uc11c\uc6b8\uc218\uc7201\ud638\uc810",
+      "phone": "050712978069",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 4023,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\uc9c0\ucf54\ubc14\uce58\ud0a8_20190725_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ubd81\uad6c \uc218\uc720\ub3d9 48-53 48-53 \uc81c\uc77c\uc7a5\uc5ec\uad00 1\uce35 \uc9c0\ucf54\ubc14\uce58\ud0a8"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 28,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.5566524,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.025662936796,
+      "list_pos": 72,
+      "open": true,
+      "id": 423273,
+      "estimated_delivery_time": "45~55\ubd84",
+      "review_count": 1674,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20210419110000000000_c9d099eaa6c56eef0de84d173c292067_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": null,
+      "thumbnail_message": "",
+      "begin": "10:10:00",
+      "is_available_pickup": true,
+      "tags": [
+        "excellent"
+      ],
+      "representative_menus": "",
+      "lat": 37.6346606843401,
+      "end": "22:45:00",
+      "discount_until": null,
+      "categories": [
+        "\ucc1c\ud0d5",
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\ud55c\uc2dd",
+        "1\uc778\ubd84\uc8fc\ubb38",
+        "\uace0\uae30\uad6c\uc774"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 9000,
+      "distance": 0.54452063348,
+      "minimum_pickup_minutes": 20,
+      "except_cash": false,
+      "name": "100\ub144\uc11c\uc11c\uac08\ube44",
+      "phone": "050352847248",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 1674,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/restaurant_logos/\uc5c5\uccb4\uc790\uccb4_20200226_423273_100\ub144\uc11c\uc11c\uac08\ube44_\ub300\ud45c\uc0ac\uc9c4_300x300.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubbf8\uc544\ub3d9 158-10 \ud604\uc6c5\ube4c\ub529 1\uce35(\uc804\uccb4)"
+    },
+    {
+      "phone_order": false,
+      "section_pos": 29,
+      "adjusted_delivery_fee": 2900,
+      "is_available_delivery": true,
+      "new_rating": 0.545171,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.030794092251,
+      "list_pos": 73,
+      "open": true,
+      "id": 502787,
+      "estimated_delivery_time": "21\ubd84",
+      "review_count": 1737,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "discounts": {
+        "delivery_fee": {
+          "funding": 0,
+          "campaign": 500
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20210419110000000000_7aa0d2b4568a9bb3e044f839865d6f0d_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": null,
+      "thumbnail_message": "",
+      "begin": "10:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "excellent"
+      ],
+      "representative_menus": "",
+      "lat": 37.636385147003,
+      "end": "23:00:00",
+      "discount_until": null,
+      "categories": [
+        "1\uc778\ubd84\uc8fc\ubb38",
+        "\uc77c\uc2dd\ub3c8\uae4c\uc2a4"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 8500,
+      "distance": 0.58606407662,
+      "minimum_pickup_minutes": 0,
+      "except_cash": true,
+      "name": "The\uc218\uc81c\ub3c8\uae4c\uc2a4-\uac15\ubd81\uc810",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "OD",
+      "owner_reply_count": 85,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "discounted": "2,400\uc6d0",
+        "basic": "2,900\uc6d0"
+      },
+      "logo_url": "/media/restaurant_logos/\uc5c5\uccb4\uc790\uccb4_20210226_502787_The\uc218\uc81c\ub3c8\uae4c\uc2a4-\uac15\ubd81\uc810_\ub300\ud45c\uc0ac\uc9c4_300x300.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubc88\ub3d9 412-76 1\uce35(\uc88c\uce21\ud638)"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 30,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.5426662,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.019032605768,
+      "list_pos": 74,
+      "open": true,
+      "id": 377346,
+      "estimated_delivery_time": "45~55\ubd84",
+      "review_count": 2295,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": 15,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20181130112514669826_0e13938f0d159eb5369aff933815bdb9_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": "(\uc8fc)\ud55c\uad6d\uc77c\uc624\uc0bc / \ucc98\uac13\uc9d1\uc591\ub150\uce58\ud0a8",
+      "thumbnail_message": "",
+      "begin": "12:00:00",
+      "is_available_pickup": true,
+      "tags": [
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.624617567974,
+      "end": "23:50:00",
+      "discount_until": null,
+      "categories": [
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\uce58\ud0a8",
+        "\uc57c\uc2dd"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 16000,
+      "distance": 1.75529017956,
+      "minimum_pickup_minutes": 20,
+      "except_cash": false,
+      "name": "\ucc98\uac13\uc9d1\uc591\ub150\uce58\ud0a8-\uc0bc\uc591\uc810",
+      "phone": "050718632046",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 2172,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ucc98\uac13\uc9d1\uce58\ud0a8_20151228_Franchise\uc774\ubbf8\uc9c0\uc57d\uc815\uc11c_crop_200x200_ZaH9UvS.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ubd81\uad6c \ubbf8\uc544\ub3d9 775-36 775-36 1\uce35"
+    },
+    {
+      "phone_order": true,
+      "free_delivery_threshold": 0,
+      "section_pos": 31,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": -0.3702942,
+      "app_order": true,
+      "lng": 127.021648081563,
+      "list_pos": 75,
+      "open": true,
+      "id": 1027765,
+      "estimated_delivery_time": "45~55\ubd84",
+      "review_count": 7,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20211028170350347521_a2fbd626bc1403e6953d399889affeb5_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": true,
+      "franchise_name": null,
+      "thumbnail_message": "",
+      "begin": "10:00:00",
+      "is_available_pickup": true,
+      "tags": [],
+      "representative_menus": "",
+      "lat": 37.643938204898,
+      "end": "03:40:00",
+      "discount_until": null,
+      "categories": [
+        "\uc57c\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\uc911\uc2dd",
+        "\ud14c\uc774\ud06c\uc544\uc6c3"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 12000,
+      "distance": 0.59258872715,
+      "minimum_pickup_minutes": 20,
+      "except_cash": false,
+      "name": "\uc5ed\ub300\uc9ec\ubf55-\uc218\uc720\uc810",
+      "phone": "050712869031",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 0,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/restaurant_logos/\uc5c5\uccb4\uc790\uccb4_20211101_1027765_\uc5ed\ub300\uc9ec\ubf55-\uc218\uc720\uc810_\ub300\ud45c\uc0ac\uc9c4_300x300.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ubd81\uad6c \uc218\uc720\ub3d9 251-5 1\uce35 2\uce35"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 32,
+      "adjusted_delivery_fee": 2000,
+      "is_available_delivery": true,
+      "new_rating": 0.5336157,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.022388485046,
+      "list_pos": 76,
+      "open": true,
+      "id": 228201,
+      "estimated_delivery_time": "45~55\ubd84",
+      "review_count": 7090,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20210419110000000000_03f583f10b594d55f9abcbeba54594c2_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": null,
+      "thumbnail_message": "",
+      "begin": "09:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "excellent"
+      ],
+      "representative_menus": "",
+      "lat": 37.6299341798292,
+      "end": "08:59:00",
+      "discount_until": null,
+      "categories": [
+        "\uc57c\uc2dd",
+        "\uc77c\uc2dd\ub3c8\uae4c\uc2a4",
+        "\ud55c\uc2dd",
+        "\ucc1c\ud0d5",
+        "\ubd84\uc2dd",
+        "\uc871\ubc1c\ubcf4\uc308"
+      ],
+      "review_avg": 4.5,
+      "min_order_amount": 15000,
+      "distance": 1.1038669886299999,
+      "minimum_pickup_minutes": 0,
+      "except_cash": false,
+      "name": "24\uc2dc\ucf54\ub9ac\uc544\ud648\ud478\ub4dc",
+      "phone": "050352586996",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 108,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "2,000\uc6d0"
+      },
+      "logo_url": "/media/restaurant_logos/\uc2a4\ud0c1_20210726_DHK\uc678\ubd80_\uae40\uce58\ucc0c\uac1c_Side01_300x300_RNIG05_PX2vD1I.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ubbf8\uc544\ub3d9 218-6 1\uce35"
+    },
+    {
+      "phone_order": false,
+      "section_pos": 33,
+      "adjusted_delivery_fee": 3900,
+      "is_available_delivery": true,
+      "new_rating": 0.5200338,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.043746966644,
+      "list_pos": 77,
+      "open": true,
+      "id": 308909,
+      "estimated_delivery_time": "27\ubd84",
+      "review_count": 1746,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "discounts": {
+        "delivery_fee": {
+          "funding": 1900,
+          "campaign": 500
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20201230172603618714_046544ab1f9c786c86745855a9734621_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": null,
+      "thumbnail_message": "",
+      "begin": "10:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "excellent"
+      ],
+      "representative_menus": "",
+      "lat": 37.6550772793599,
+      "end": "23:00:00",
+      "discount_until": null,
+      "categories": [
+        "\uce74\ud398\ub514\uc800\ud2b8"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 9000,
+      "distance": 2.35929731722,
+      "minimum_pickup_minutes": 0,
+      "except_cash": true,
+      "name": "\uafc0\uc18c\ub2f4",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "OD",
+      "owner_reply_count": 1444,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "discounted": "1,500\uc6d0",
+        "basic": "3,900\uc6d0"
+      },
+      "logo_url": "/media/restaurant_logos/\u110b\u1165\u11b8\u110e\u1166\u110c\u1161\u110e\u1166_20200508_308909_\u1101\u116e\u11af\u1109\u1169\u1103\u1161\u11b7_\u1103\u1162\u1111\u116d\u1109\u1161\u110c\u1175\u11ab_300x300_fg2UmkV.jpg",
+      "address": "\uc11c\uc6b8 \ub3c4\ubd09\uad6c \ucc3d\ub3d9 269-4 1\uce35"
+    },
+    {
+      "phone_order": false,
+      "section_pos": 34,
+      "adjusted_delivery_fee": 3900,
+      "is_available_delivery": true,
+      "new_rating": 0.5186657,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.045912925,
+      "list_pos": 78,
+      "open": true,
+      "id": 561957,
+      "estimated_delivery_time": "21\ubd84",
+      "review_count": 755,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": null,
+      "discounts": {
+        "delivery_fee": {
+          "funding": 1900,
+          "campaign": 500
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/restaurants/thumbnail/20210416102346781678_1768ba13099ceb209bf6ba26e99a14d6_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "franchise_name": null,
+      "thumbnail_message": "",
+      "begin": "10:00:00",
+      "is_available_pickup": false,
+      "tags": [
+        "excellent"
+      ],
+      "representative_menus": "",
+      "lat": 37.6514452010171,
+      "end": "20:30:00",
+      "discount_until": null,
+      "categories": [
+        "\uc77c\uc2dd\ub3c8\uae4c\uc2a4",
+        "\ud55c\uc2dd",
+        "\uc911\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 8700,
+      "distance": 2.23277522651,
+      "minimum_pickup_minutes": 0,
+      "except_cash": true,
+      "name": "\ub738\ub4e4\uc774\ub2e4-\ucc3d\ub3d9\uc810",
+      "phone": "0000000000",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "OD",
+      "owner_reply_count": 752,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "discounted": "1,500\uc6d0",
+        "basic": "3,900\uc6d0"
+      },
+      "logo_url": "/media/restaurant_logos/\uc2a4\ud0c1_20200907_DHK\uc678\ubd80_\uba85\ub780\uc544\ubcf4\uce74\ub3c4\ub36e\ubc25_Top01_300x300_0heuGuW.jpg",
+      "address": "\uc11c\uc6b8 \ub3c4\ubd09\uad6c \ucc3d\ub3d9 338 \uc2e0\uc6d0\ub9ac\ubca0\ub974\ud154 1\uce35 108\ud638"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 35,
+      "adjusted_delivery_fee": 1500,
+      "is_available_delivery": true,
+      "new_rating": 0.5154911,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.020935701763,
+      "list_pos": 79,
+      "open": true,
+      "id": 440647,
+      "estimated_delivery_time": "67~77\ubd84",
+      "review_count": 2036,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": 43,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": false,
+            "amount": 4000,
+            "discount_mov": 15000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20201216120033957217_dd11d10545eec80b94e73d9b10c31f0e_tn.jpg",
+      "reachable": true,
+      "additional_discount": 4000,
+      "new": false,
+      "minimum_pickup_minutes": 30,
+      "thumbnail_message": "",
+      "begin": "14:00:00",
+      "is_available_pickup": true,
+      "tags": [
+        "relayo"
+      ],
+      "representative_menus": "",
+      "lat": 37.6389783513028,
+      "end": "00:30:00",
+      "discount_until": null,
+      "categories": [
+        "\uce58\ud0a8",
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\ud504\ub79c\ucc28\uc774\uc988"
+      ],
+      "review_avg": 4.9,
+      "min_order_amount": 15000,
+      "distance": 0.40499066427,
+      "franchise_name": "\uc8fc\uc2dd\ud68c\uc0ac\ub098\ub3c4\ub78c\uc5d0\ud504\uc528 / \ud22c\uc874\uce58\ud0a8",
+      "except_cash": false,
+      "name": "3\uac00\uc9c0\ub9db\ud22c\uc874\uce58\ud0a8-\uc218\uc720\uc810",
+      "phone": "050352864670",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 2033,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "1,500\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ud22c\uc874\uce58\ud0a8_20160315_Franchise\uc774\ubbf8\uc9c0\uc57d\uc815\uc11c_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc218\uc720\ub3d9 29-40 1\uce35 \uc6b0\uce21"
+    },
+    {
+      "phone_order": true,
+      "section_pos": 36,
+      "adjusted_delivery_fee": 1000,
+      "is_available_delivery": true,
+      "new_rating": 0.511634,
+      "app_order": true,
+      "free_delivery_threshold": 0,
+      "lng": 127.026768047718,
+      "list_pos": 80,
+      "open": true,
+      "id": 369371,
+      "estimated_delivery_time": "55~65\ubd84",
+      "review_count": 1612,
+      "discount_from": null,
+      "is_deliverable": true,
+      "section": "contract",
+      "restaurant_type": "food",
+      "franchise_id": 548,
+      "discounts": {
+        "additional": {
+          "delivery": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 2000,
+            "discount_mov": 0
+          },
+          "pickup": {
+            "only_for_member": true,
+            "is_per_menu": true,
+            "amount": 2000,
+            "discount_mov": 15000
+          }
+        }
+      },
+      "thumbnail_url": "https://rev-static.yogiyo.co.kr/franchise/thumbnail/20200609142552546157_f0b60b578881144774d34ceb4d0785eb_tn.jpg",
+      "reachable": true,
+      "additional_discount": 0,
+      "new": false,
+      "minimum_pickup_minutes": 30,
+      "thumbnail_message": "",
+      "begin": "11:00:00",
+      "is_available_pickup": true,
+      "tags": [
+        "CESCO"
+      ],
+      "representative_menus": "",
+      "lat": 37.6408324588768,
+      "end": "03:30:00",
+      "discount_until": null,
+      "categories": [
+        "\ud55c\uc2dd",
+        "\ud504\ub79c\ucc28\uc774\uc988",
+        "\ud14c\uc774\ud06c\uc544\uc6c3",
+        "\uace0\uae30\uad6c\uc774"
+      ],
+      "review_avg": 4.8,
+      "min_order_amount": 15000,
+      "distance": 0.18189285943,
+      "franchise_name": "(\uc8fc)\ub180\ubd80 / \ucac4\uba74\uc8fc\ub294\uc0bc\uacb9\ubcf8\ub2a5",
+      "except_cash": false,
+      "name": "\ucac4\uba74\uc8fc\ub294\uc0bc\uacb9\ubcf8\ub2a5by\ub180\ubd80-\uc218\uc720\uc810",
+      "phone": "050718624251",
+      "reason": null,
+      "payment_methods": [
+        "creditcard",
+        "online"
+      ],
+      "delivery_method": "VD",
+      "owner_reply_count": 1439,
+      "discount_percent": 0,
+      "delivery_fee_to_display": {
+        "basic": "1,000\uc6d0"
+      },
+      "logo_url": "/media/franchise_logos/\ucac4\uba74\uc8fc\ub294\uc0bc\uacb9\ubcf8\ub2a5_20210722_Franchise_crop_200x200.jpg",
+      "address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uac15\ubd81\uad6c \uc218\uc720\ub3d9 177-26 177-26 1\uce35"
+    }
+  ]
+}
